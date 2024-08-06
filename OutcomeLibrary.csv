@@ -1,0 +1,1412 @@
+﻿OutcomeCategory,Business Outcome,IT Outcome,Key Performance Indicator(s),Domain,Capability,Use Case,Use Case Description,Products,Originator,Country,Customer,Delivered?,Outcome Category,Sector,Item Type,Path
+"Improve Quality, Reduce Risk, Grow Revenues","Higher availability of business services which leads to better service quality, higher business performance, better customer experience and higher profits",Improve the detection of important root cause events that need immediate focus from the support groups,"- MTBSI, 
+- MTTR, 
+- CSAT",Continuous Operations,Event Management,Noise Reduction through Event Correlation,"As the Service Support Manager, 
+
+I want Event Correlation (preferably automated and with AI/ML injected) to reduce the noise of event storms from multiple monitoring tools, 
+
+so that I can detect the important and correct vulnerabilities and risks that I need to focus on in seconds.",OPSB,Luke Codarin <lcodarin@opentext.com>,ANZ,Telstra,Project,#NAME?,Telecom,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Reduce Risk, Grow Revenues","Higher availability of business services which leads to better service quality, higher business performance, better customer experience and higher profits",Improve the detection of important root cause events that need immediate focus from the support groups,"- MTBSI, 
+- MTTR, 
+- CSAT",Continuous Operations,Event Management,Noise Reduction through Event Correlation,"As the Service Support Manager, 
+
+I want Event Correlation (preferably automated and with AI/ML injected) to reduce the noise of event storms from multiple monitoring tools, 
+
+so that I can detect the important and correct vulnerabilities and risks that I need to focus on in seconds.",OPSB,Hany Boulous,EMERGING,Dubai Airport,Project,#NAME?,Aviation,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Grow Revenues","Higher availability of business services which leads to better service quality, higher business performance, better customer experience and higher profits",Improve the routing of events to the right resolver groups,"- MTBSI, 
+- MTTR, 
+- CSAT",Continuous Operations,Event Management,Alert Intelligent to avoid distraction,"As the Service Support Manager 
+
+I want to associate events and incidents with (automatically discovered) topology related to business services (Service Model) and support groups 
+
+so that I can automatically route events / incidents to relevant support groups and filter the presentation of the event queue.",OPSB,Luke Codarin <lcodarin@opentext.com>,ANZ,Telstra,Project,#NAME?,Telecom,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Business Alignment, Grow Revenues","Higher availability of business services which leads to better service quality, higher business performance, better customer experience and higher profits",Improve the speed of discovering the business impact and the selection of appropriate actions to execute,"- MTBSI, 
+- MTTR, 
+- CSAT",Continuous Operations,Service Monitoring,Business Impact Analysis,"As the Service Owner 
+
+I want to associate events with automatically discovered topology related to business services (Service Model) and Business User groups 
+
+so that I can immediately understand the business impact of the events and take the right actions accordingly.",OPSB,Luke Codarin <lcodarin@opentext.com>,ANZ,Telstra,Project,#NAME?,Telecom,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Reduce Cost, Business Alignment, Grow Revenues","Improve End User Productivity at lower support costs so End Users can enjoy higher service quality, higher business performance, better experience and faster business Support.",Reduce support costs and extend service times by offering effective Self Service capability. Free up Service Desk agents in delivering self service capabilities to end users.,"- CEI, 
+- MTBSI, 
+- MTTR, 
+- CSAT",Continuous Operations,Service Catalogue and Offer Management,End User Self Service for ITSM and ESM,"As the Service Support Manager / Service Level Manager
+
+I want to offer superior self service capabilities to my Business Users (Portal, Virtual Agent, Chat, Knowledge, Ticketing, Catalogue, Communication, Collaboration, etc) leveraging the IT capabilities for non IT business content customer (like GRE, Logistics, Finance), 
+
+so that IT and business customers easily and effectively interact with business and IT on services provided and  enjoy higher service quality, better collaboration, better experience and efficient business support faster.",SMAX,#NAME?,"DACH, EMERGING",#NAME?,Project,#NAME?,Aviation,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Reduce Cost, Business Alignment, Grow Revenues","Improve End User Productivity at lower support costs so End Users can enjoy higher service quality, higher business performance, better experience and faster business Support.",Reduce support costs and extend service times by offering effective Self Service capability. Free up Service Desk agents in delivering self service capabilities to end users.,"- CEI, 
+- MTBSI, 
+- MTTR, 
+- CSAT",Continuous Operations,Service Catalogue and Offer Management,End User Self Service for ITSM and ESM,"As the Service Support Manager / Service Level Manager
+
+I want to offer superior self service capabilities to my Business Users (Portal, Virtual Agent, Chat, Knowledge, Ticketing, Catalogue, Communication, Collaboration, etc) leveraging the IT capabilities for non IT business content customer (like GRE, Logistics, Finance), 
+
+so that IT and business customers easily and effectively interact with business and IT on services provided and  enjoy higher service quality, better collaboration, better experience and efficient business support faster.",SMAX,Peter Gotthardt,DACH,Evonik,Project,#NAME?,Chemical,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Business Alignment, Reduce Risk, Reduce Cost, Grow Revenues","Higher availability of business services which leads to better service quality, higher business performance, better customer experience and higher profits",Improve efficiency in restoring the business services trough faster Incident Resolution,"- MTBSI, 
+- MTTR, 
+- CSAT",Continuous Operations,Incident Management,Restore the service as soon as possible,"As the Incident Manager I want effective incident management practice - including strong ServiceDesk functions and AI and Knowledge based support for Users and Agents, so that I can manage and measure the logging, assignment, investigation and diagnosis, resolution & recovery of every incident resulting in a better / faster time to restore the service",SMAX,Peter Gotthardt,DACH,Evonik,Project,#NAME?,Chemical,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Grow Revenues","Higher availability of business services which leads to better service quality, better customer experience and higher profits",Improve efficiency in restoring the business services trough proper incident management,"- MTBSI, 
+- MTTR, 
+- CSAT",Continuous Operations,Incident Management,Automated Incident Ticketing,"As the Incident Manager I want that all root cause events (after correlation) are automatically logged as an incident thus to improve communication from the service desk to customers, faster response times if events have not been solved and establish knowledge gathering and learning",OPSB,"- Luke Codarin <lcodarin@opentext.com>, (Telstra)
+- Dominique Marie (SFR)","ANZ, GALLIA","Telstra, SFR",Project,#NAME?,Telecom,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Grow Revenues, Reduce Risk, Business Alignment","Less critical Incidents and Higher availability of business services which leads to better service quality, better customer experience and higher profits","Efficient (Major) Incident Management procedure that provides optimal communication, team oriented support and fastest resolution and fix of critical Incidents
+","- MTBSI, 
+- MTTR",Continuous Operations,Incident Management,Reduce business impact for services interruptions and degradations (incidents),"As the Incident Manager 
+
+I want that (critical) incidents follow a specific procedure that includes proper request management, communication, classification, organisation of teams, diagnosis and remediation and a specific review/analysis phase, 
+
+so that (critical) incidents are resolved and mitigated fast and service interruption / degradation is solved as soon as possible",SMAX,Peter Gotthardt,DACH,Evonik,Project,#NAME?,Chemical,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Grow Revenues, Reduce Risk","Less critical Incidents and Higher availability of business services which leads to better service quality, better customer experience and higher profits","Efficient (Major) Incident Management procedure that provides optimal communication, team oriented support and fastest resolution and fix of critical Incidents","- MTBSI, 
+- MTTR",Continuous Operations,Incident Management,Reduces the recurrence of incidents through remediation of rootcauses,"As the Incident Manager 
+
+I want that underlying root causes are diagnosed and remediated resulting in underlying infrastructure being optimized based on the learnings of the event and incident management practices 
+
+so that events and incidents are never repeated.",SMAX,Peter Gotthardt,DACH,Evonik,Project,#NAME?,Chemical,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Grow Revenues, Reduce Risk","Less critical Incidents and higher availability of business services which leads to better service quality, better customer experience and higher profits","Efficient problem management practices will reduces support costs by investing in Problem Analysis to find trends, enable IT to be proactive and prevent incidents from occurring through permanent fix or available workarounds as well as to  increase end-user satisfaction",MTBSI,Continuous Operations,Problem Management,Reduces the occurrence and recurrence of events and incidents,"As the Incident / Problem Manager 
+
+I want to minimize the effects of events and incidents caused by errors in the IT infrastructure and prevent their recurrence by enabling IT to quickly identify the underlying reason for one or more incident, implement workarounds, identify known errors and provide permanent solutions through Defect Management
+
+so that I improve the service availability and reliability, as well as the customer experience and the business performance",SMAX,Peter Gotthardt,DACH,Evonik,Project,#NAME?,Chemical,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Grow Revenues","Easy to consume and faster, Automated Service Request Management leads to better service quality, higher performance, better customer experience and higher profits",Efficient Service Request Management practices reduce cost and allow support groups to more efficiently fulfil service and support requests in the meantime improve the work agents do from low value task to high value tasks.,MTTF,Continuous Operations,Fulfilment,Fulfil Service Request efficient and effective,"As the Service Delivery Manager 
+
+I want automated request management workflows that streamlined requests, approval, orchestration and fulfilment practices across all service providers, 
+
+so that services requests will be fulfilled more efficiently thus improving availability, business performance, customer effort (to do business with IT) and end user satisfaction. ",SMAX,#NAME?,DACH,Evonik,Project,#NAME?,Chemical,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Grow Revenues","Easy to consume and faster, Automated Service Request Management leads to better service quality, higher performance, better customer experience and higher profits",Efficient Service Request Management practices reduce cost and allow support groups to more efficiently fulfil service and support requests in the meantime improve the work agents do from low value task to high value tasks.,MTTF,Continuous Operations,Fulfilment,Fulfil Service Request efficient and effective,"As the Service Delivery Manager 
+
+I want automated request management workflows that streamlined requests, approval, orchestration and fulfilment practices across all service providers, 
+
+so that services requests will be fulfilled more efficiently thus improving availability, business performance, customer effort (to do business with IT) and end user satisfaction. ",SMAX,#NAME?,"DACH, EMERGING","- Zurich Airport,
+- Qatar Airlines",Project,#NAME?,Aviation,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Grow Revenues","Easy to consume and faster, Automated Service Request Management leads to better service quality, higher performance, better customer experience and higher profits",Efficient Service Request Management practices reduce cost and allow support groups to more efficiently fulfil service and support requests in the meantime improve the work agents do from low value task to high value tasks.,MTTF,Continuous Operations,Fulfilment,Fulfil Service Request efficient and effective,"As the Service Delivery Manager 
+
+I want automated request management workflows that streamlined requests, approval, orchestration and fulfilment practices across all service providers, 
+
+so that services requests will be fulfilled more efficiently thus improving availability, business performance, customer effort (to do business with IT) and end user satisfaction. ",SMAX,Peter Gotthardt,DACH,SICK AG,Project,#NAME?,Technology,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Grow Revenues, Reduce Risk","Proper Change Management practices leads to better service quality, less disruption and impact of improper implementation, better service performance, better customer experience and higher profits",Efficient Change Management practices improve effectiveness of the change implementation thus reducing the risk of negative impact of the implemented change.,"- MMTF, 
+- MTBSI",Continuous Operations,Change Management,Optimize Change Management Practice,"As the Change Manager 
+
+I want to automated the change management practice to assure the effectiveness of that practice, 
+
+so that we can manage changes better, faster, safer and cheaper",SMAX,Peter Gotthardt,DACH,Evonik,Project,#NAME?,Chemical,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Grow Revenues, Reduce Risk","Proper Change Management practices leads to better service quality, less disruption and impact of improper implementation, better service performance, better customer experience and higher profits",Efficient Change Management practices improve effectiveness of the change implementation thus reducing the risk of negative impact of the implemented change.,"- MMTF, 
+- MTBSI",Continuous Operations,Change Management,Optimize Change Management Practice,"As the Change Manager 
+
+I want to automated the change management practice to assure the effectiveness of that practice, 
+
+so that we can manage changes better, faster, safer and cheaper",SMAX,Peter Gotthardt,DACH,Zurich Airport,Project,#NAME?,Aviation,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Grow Revenues, Reduce Risk","Proper Change Management practices leads to better service quality, less disruption and impact of improper implementation, better service performance, better customer experience and higher profits",Efficient Change Management practices improve effectiveness of the change implementation thus reducing the risk of negative impact of the implemented change.,"- MMTF, 
+- MTBSI",Continuous Operations,Change Management,Optimize Change Management Practice,"As the Change Manager 
+
+I want to automated the change management practice to assure the effectiveness of that practice, 
+
+so that we can manage changes better, faster, safer and cheaper",SMAX,Peter Gotthardt,DACH,SICK AG,Project,#NAME?,Technology,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Grow Revenues, Reduce Risk","Proper Change Management practices leads to better service quality, less disruption and impact of improper implementation, better service performance, better customer experience and higher profits","Efficient Change Management Processes improves effectiveness of the change implementation, takes care of improper planning and conflicts thus reducing the risk of faulty implementations and reducing the risk of negative impact of the implemented change.","- MMTF, 
+- MTBSI",Continuous Operations,Change Management,Avoid change schedule conflicts,"As the Change Manager 
+
+I want a fast and efficient practice to identify and reconciles change scheduling conflicts, 
+
+so that the risk of unplanned downtime is reduced",SMAX,Peter Gotthardt,DACH,Evonik,Project,#NAME?,Chemical,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Grow Revenues, Reduce Risk","Proper Change Management practices leads to better service quality, less disruption and impact of improper implementation, better service performance, better customer experience and higher profits","Efficient Change Management Processes improves effectiveness of the change implementation, takes care of improper planning and conflicts thus reducing the risk of faulty implementations and reducing the risk of negative impact of the implemented change.","- MMTF, 
+- MTBSI",Continuous Operations,Change Management,Avoid change schedule conflicts,"As the Change Manager 
+
+I want a fast and efficient practice to identify and reconciles change scheduling conflicts, 
+
+so that the risk of unplanned downtime is reduced",SMAX,Peter Gotthardt,DACH,Zurich Airport,Project,#NAME?,Aviation,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Grow Revenues, Reduce Risk","Proper Change Management practices leads to better service quality, less disruption and impact of improper implementation, better service performance, better customer experience and higher profits","Efficient Change Management Processes improves effectiveness of the change implementation, takes care of improper planning and conflicts thus reducing the risk of faulty implementations and reducing the risk of negative impact of the implemented change.","- MMTF, 
+- MTBSI",Continuous Operations,Change Management,Avoid change schedule conflicts,"As the Change Manager 
+
+I want a fast and efficient practice to identify and reconciles change scheduling conflicts, 
+
+so that the risk of unplanned downtime is reduced",SMAX,Peter Gotthardt,DACH,SICK AG,Project,#NAME?,Technology,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Grow Revenues, Reduce Risk","Proper Change Management practices leads to better service quality, less disruption and impact of improper implementation, better service performance, better customer experience and higher profits","Efficient Change Management Processes improves effectiveness of the change implementation, takes care of proper risk and impact analysis thus reducing the risk of faulty implementations and reducing the risk of negative impact of the implemented change.","- MMTF, 
+- MTBSI",Continuous Insight,Change Management,Avoid unplanned downtime through poorly managed changes,"As the Change Manager 
+
+I want to monitor the change management practice to improve effectiveness of the change implementation, taking care of proper risk and impact analysis thus reducing the risk of faulty implementations 
+
+so that I can reduce the risk of negative impact of the implemented change and mitigate the risk of unplanned outages. ",SMAX,Peter Gotthardt,DACH,Evonik,Project,#NAME?,Chemical,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Grow Revenues, Reduce Risk","Proper Change Management practices leads to better service quality, less disruption and impact of improper implementation, better service performance, better customer experience and higher profits","Efficient Change Management Processes improves effectiveness of the change implementation, takes care of proper risk and impact analysis thus reducing the risk of faulty implementations and reducing the risk of negative impact of the implemented change.","- MMTF, 
+- MTBSI",Continuous Insight,Change Management,Avoid unplanned downtime through poorly managed changes,"As the Change Manager 
+
+I want to monitor the change management practice to improve effectiveness of the change implementation, taking care of proper risk and impact analysis thus reducing the risk of faulty implementations 
+
+so that I can reduce the risk of negative impact of the implemented change and mitigate the risk of unplanned outages. ",SMAX,Peter Gotthardt,DACH,Zurich Airport,Project,#NAME?,Aviation,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Grow Revenues, Reduce Risk","Proper Change Management practices leads to better service quality, less disruption and impact of improper implementation, better service performance, better customer experience and higher profits","Efficient Change Management Processes improves effectiveness of the change implementation, takes care of proper risk and impact analysis thus reducing the risk of faulty implementations and reducing the risk of negative impact of the implemented change.","- MMTF, 
+- MTBSI",Continuous Insight,Change Management,Avoid unplanned downtime through poorly managed changes,"As the Change Manager 
+
+I want to monitor the change management practice to improve effectiveness of the change implementation, taking care of proper risk and impact analysis thus reducing the risk of faulty implementations 
+
+so that I can reduce the risk of negative impact of the implemented change and mitigate the risk of unplanned outages. ",SMAX,Peter Gotthardt,DACH,SICK AG,Project,#NAME?,Technology,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Grow Revenues","Proper Service Level Management adopted across the enterprise leads to better and measurable service availability and service quality, higher focus and response of the support organisation, higher service performance, better customer experience and higher profits",Efficient Service Level Management practices increases the responsiveness of the support organisation and reduces costs by lowering the level of effort associated with reactive recovery activities.,CSI,Continuous Operations,Service Level Management,Monitor SLO's against targets and report (potential) breaches,"As the Service Level Manager 
+
+I want service levels objectives (SLO's) to be monitored and - in case of risk of SLA breach - to activate intelligent alerting, 
+
+so that I can respond proactively to this potential breach with relevant actions.",SMAX,Peter Gotthardt,DACH,Evonik,Project,#NAME?,Chemical,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Grow Revenues","Proper Service Level Management adopted across the enterprise leads to better and measurable service availability and service quality, higher focus and response of the support organisation, higher service performance, better customer experience and higher profits",Efficient Service Level Management practices increases the responsiveness of the support organisation and reduces costs by lowering the level of effort associated with reactive recovery activities.,CSI,Continuous Operations,Service Level Management,Monitor SLO's against targets and report (potential) breaches,"As the Service Level Manager 
+
+I want service levels objectives (SLO's) to be monitored and - in case of risk of SLA breach - to activate intelligent alerting, 
+
+so that I can respond proactively to this potential breach with relevant actions.",SMAX,Peter Gotthardt,DACH,Zurich Airport,Project,#NAME?,Aviation,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Grow Revenues","Proper Service Level Management adopted across the enterprise leads to better and measurable service availability and service quality, higher focus and response of the support organisation, higher service performance, better customer experience and higher profits",Efficient Service Level Management practices increases the responsiveness of the support organisation and reduces costs by lowering the level of effort associated with reactive recovery activities.,CSI,Continuous Operations,Service Level Management,Monitor SLO's against targets and report (potential) breaches,"As the Service Level Manager 
+
+I want service levels objectives (SLO's) to be monitored and - in case of risk of SLA breach - to activate intelligent alerting, 
+
+so that I can respond proactively to this potential breach with relevant actions.",SMAX,Peter Gotthardt,DACH,SICK AG,Project,#NAME?,Technology,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Grow Revenues, Business Alignment","Proper Service Level Management adopted across the enterprise leads to better and measurable service availability and service quality, higher focus and response of the support organisation, higher service performance, better customer experience and higher profits",Efficient Service Level Reporting practices increases the responsiveness of the support organisation to continuously improve proactively thus reduce cost by lowering the level of effort associated reactive recovery activities.,CSI,Continuous Operations,Service Level Management,Report performance of SLO's against targets and initiate improvements,"As the Service Level Manager I want that performance against service level objectives (SLO's) is reported, so that I can inform my customer in regular meetings and I continuously improve the performance of the SLA when required.",SMAX,Peter Gotthardt,DACH,Evonik,Project,#NAME?,Chemical,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Grow Revenues, Business Alignment","Proper Service Level Management adopted across the enterprise leads to better and measurable service availability and service quality, higher focus and response of the support organisation, higher service performance, better customer experience and higher profits",Efficient Service Level Reporting practices increases the responsiveness of the support organisation to continuously improve proactively thus reduce cost by lowering the level of effort associated reactive recovery activities.,CSI,Continuous Operations,Service Level Management,Report performance of SLO's against targets and initiate improvements,"As the Service Level Manager 
+
+I want that performance against service level objectives (SLO's) is reported, 
+
+so that I can inform my customer in regular meetings and I continuously improve the performance of the SLA when required.",SMAX,Peter Gotthardt,DACH,Zurich Airport,Project,#NAME?,Aviation,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Grow Revenues, Business Alignment","Proper Service Level Management adopted across the enterprise leads to better and measurable service availability and service quality, higher focus and response of the support organisation, higher service performance, better customer experience and higher profits",Efficient Service Level Reporting practices increases the responsiveness of the support organisation to continuously improve proactively thus reduce cost by lowering the level of effort associated reactive recovery activities.,CSI,Continuous Operations,Service Level Management,Report performance of SLO's against targets and initiate improvements,"As the Service Level Manager 
+
+I want that performance against service level objectives (SLO's) is reported, 
+
+so that I can inform my customer in regular meetings and I continuously improve the performance of the SLA when required.",SMAX,Peter Gotthardt,DACH,SICK AG,Project,#NAME?,Technology,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Grow Revenues, Reduce Risk","Continuous improvement of Enterprise Service Management practice based on dashboards and reports for the different practices which lead to better service quality, higher service performance, better customer experience and higher profits",Improve efficiency in Enterprise Service Management practice through dashboards and reports,CSI,Continuous Insight,Service Monitoring,1 data lake as single source of truth,"As the Service Owner / Service Delivery Manager 
+
+I want that all relevant data that monitors the support of Business Services availability / reliability in one single source of truth, resulting in total observability giving me reliable situational awareness organizations capability to support, 
+
+so that I can do proper analysis and take the right actions to continuously improve",SMAX,Peter Gotthardt,DACH,Zurich Airport,Project,#NAME?,Aviation,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Grow Revenues, Reduce Risk","Higher availability of business services which leads to better service quality, better customer experience and higher profits",Improve efficiency in event management practice.,"- MTBSI, 
+- MTTR",Continuous Operations,Service Monitoring,1 data lake as single source of truth,"As the Service Owner / Service Delivery Manager 
+
+I want that all relevant data that monitors the support of Business Services availability / reliability in one single source of truth, resulting in total observability giving me reliable situational awareness organizations capability to support, 
+
+so that I can do proper analysis and take the right actions to continuously improve",OPSB,"- Luke Codarin <lcodarin@opentext.com> (Telstra),
+- Dominique Marie (SFR)",ANZ,"Telstra, SFR",Project,#NAME?,Telecom,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Grow Revenues, Reduce Risk, Business Alignment","Higher availability of business services which leads to better service quality, better customer experience and higher profits",Improve quality in continuous insight of service health,"- MTBSI, 
+- MTTR",Continuous Operations,Service Monitoring,Eliminate Blind Spots,"As the Service Delivery Manager, 
+
+I want to improve service monitoring and assurance that all components in the environment are detected and monitored resulting in detection of all events, 
+
+so that I can reduce the risk of missing events and business services going down",OPSB,Luke Codarin,ANZ,Telstra,Project,#NAME?,Telecom,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Reduce Cost,"Reducing overhead cost for the organization, that support higher profits",Improve the TCO of service monitoring platforms,Reduce TCO,Continuous Operations,Service Monitoring,Optimize Technology Utilization,"As the Operations Manager, 
+
+I want to improve the simplification and consolidation of the Monitoring Platforms, 
+
+so that I can reduce cost and complexity ",AMX,Luke Codarin,ANZ,Telstra,Project,Reduce Cost,Telecom,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Reduce Risk,"Higher availability of technology that supports the Service Monitoring practices, leading to reliable Service Monitoring and understanding of the Service Health",Improve resilience of the service monitoring platforms,Increase Availability,Continuous Operations,Service Monitoring,Optimize Technology Reliability & Stability,"As the Service Delivery Manager, 
+
+I want to improve the reliability of the Monitoring Platforms through more stability and DR , 
+
+so that I can reduce risks",OPSB,"- Luke Codarin <lcodarin@opentext.com>
+- Hany Boulon","ANZ, EMERGING",#NAME?,Project,Reduce Risk,Telecom,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Reduce Cost,"Removing waste, Uncovering uncontrolled costs and taking control of costs leads to higher sustainable organisation and higher profits",Create a culture of Finance accountability across the organisation to manage Cloud and ICT costs efficiency. ,Reduce TCO,Continuous Operations,Consumption Usage,Uncover uncontrolled costs,"As a FinOps user 
+
+I want detailed reports both IaC (infrastructure as code) deployments in hybrid cloud landscape so that I can gain a complete, unified, real-time view of spending and usage across all major providers. 
+
+so that I can do proper analysis and take the right actions to continuously improve cost.",HCMX,Peter Gotthardt,DACH,ECB,Project,Reduce Cost,Financial,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Reduce Cost,Execution of Recommendations and allocate the right amount of preserved cloud resources leads to less costs and higher profits,Optimize Cloud Spend through executing the recommendations from the public cloud providers and optimize the cloud instance reservations to save costs. ,Reduce TCO,Continuous Operations,Asset Management,Control and right-size pre-allocated public cloud resources ,"As a FinOps user 
+
+I want detailed reports both IaC (infrastructure as code) deployments in hybrid cloud landscape so that I can gain a complete, unified, real-time view of spending and usage across all major providers
+
+so that I can do proper analysis and take the right actions to continuously improve cost.",HCMX,Peter Gotthardt,DACH,ECB,Project,Reduce Cost,Financial,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Reduce Cost, Improve Quality","Governance of the Hybrid Cloud provisioning leads to adhered standards, costs control and higher profits","Manage Hybrid Cloud deployments through governed self service capabilities that ensures guardrails for developers and engineers allowing standardization, automated provisioning of pre defined templates and internal subscription management to control Hybrid Cloud usage and cost. ",Reduce TCO,Continuous Operations,Order Management,Hybrid Cloud Provisioning of Resources from a Self Service Capability,"As a Service Delivery Manager
+
+I want a self service capability to access automated deployment and day 2 operations for my customers internal subscriptions that match the corporate guardrails 
+
+so that I can do proper management of the lifecycle of my Services. ",HCMX,Peter Gotthardt,DACH,ECB,Project,#NAME?,Financial,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Reduce Risk, Improve Quality","Application testing is more realistic and thus avoids defects - and thus incidents in production - because of unrealistic data. On top of that, the business is compliant with Data Privacy Regulations",Data Sets are secured from breach,"- Brand Protection, 
+- Risk Reduction, 
+- MTBSI",Continuous Integration,Test Management,Provide realistic test data to improve quality of testing,"As the VP of APPS 
+
+I want that my testers, developers and trainers have access to test data that is a copy of production data, on demand , while sensitive and personal data is protecting the data with realistic values 
+
+so that I can execute much better tests of the developed (new) features",Voltage,Ashley Bill,NSE,Large European Bank,Project,#NAME?,Financial,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Reduce Cost,Optimize the company's resources without reducing the service levels and assure compliant with data privacy regulations,"Reduce IT Cost, TCO while data sets are secured from breach",Reduce TCO,Continuous Planning,Portfolio Management,Close and consolidate legacy applications and secure data for necessary information and reporting,"As the Portfolio Manager 
+
+I want to close down old legacy applications which are used infrequently without losing the ability to access the data for necessary information and reporting, 
+
+so that I can optimize the resources, save cost, contribute to the financial health of our company while maintaining compliance regulations.",Voltage,Ashley Bill,NSE,Sykehuspartner,Project,Reduce Cost,Healthcare,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Grow Revenues, Reduce Risk","Improve better, faster and safer business outcomes - for example application development and testing - while stay compliant with security and privacy regulations.","Improve better, faster and safer workforce efficiency - for example application development and testing - while stay compliant with security and privacy regulations.",Risk Reduction,Continuous Compliance,Data Protection,Enable automation of file content encryption/redaction.,"As the CISO, 
+
+I want the data that is provided to an IT service or function - to be consumed by their employees for their work - to be the same file in the same format as it is used in production, but with sensitive data encrypted, 
+
+so that I can be compliant with security and privacy regulations.",Voltage,Ashley Bill,NSE,Ericsson,Project,#NAME?,Technology,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Reduce Cost, Business Alignment, Grow Revenues","Improve End User Productivity at lower support costs so End Users can enjoy higher service quality, higher business performance, better experience and faster business Support.",Reduce support costs and extend service times by offering effective Self Service capability. Free up Service Desk agents in delivering self service capabilities to end users.,"- CEI, 
+- MTBSI, 
+- MTTR, 
+- CSAT",Continuous Operations,Consumption Experience Management,End User Self Service for ITSM and ESM,"As the Service Support Manager / Service Level Manager
+
+I want to offer superior self service capabilities to my Business Users (Portal, Virtual Agent, Chat, Knowledge, Ticketing, Catalogue, Communication, Collaboration, etc) leveraging the IT capabilities for non IT business content customer (like GRE, Logistics, Finance), 
+
+so that IT and business customers easily and effectively interact with business and IT on services provided and  enjoy higher service quality, better collaboration, better experience and efficient business support faster.",SMAX,#NAME?,"DACH, EMERGING",#NAME?,Project,"- Reduce Cost
+-  Business Alignment, 
+- Grow Revenues",Aviation,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Reduce Cost, Business Alignment, Grow Revenues","Improve End User Productivity at lower support costs so End Users can enjoy higher service quality, higher business performance, better experience and faster business Support.",Reduce support costs and extend service times by offering effective Self Service capability. Free up Service Desk agents in delivering self service capabilities to end users.,"- CEI, 
+- MTBSI, 
+- MTTR, 
+- CSAT",Continuous Operations,Consumption Experience Management,End User Self Service for ITSM and ESM,"As the Service Support Manager / Service Level Manager
+
+I want to offer superior self service capabilities to my Business Users (Portal, Virtual Agent, Chat, Knowledge, Ticketing, Catalogue, Communication, Collaboration, etc) leveraging the IT capabilities for non IT business content customer (like GRE, Logistics, Finance), 
+
+so that IT and business customers easily and effectively interact with business and IT on services provided and  enjoy higher service quality, better collaboration, better experience and efficient business support faster.",SMAX,Peter Gotthardt,DACH,Evonik,Project,"- Reduce Cost
+-  Business Alignment, 
+- Grow Revenues",Chemical,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Reduce Cost, Improve Quality, Reduce Risk","Improve End User Productivity at lower support costs so End Users can enjoy higher service quality, higher business performance, better experience and faster business Support.","Reduce IT Cost, TCO while data sets are secured from breach",Risk Reduction,Continuous Compliance,Data Protection,Automate file content encryption/redaction for FOIA requests,"As the CISO, 
+
+I want the data that is provided to a citizen - as a respond to a Freedom Of Information Act request  - to be the same file in the same format as it was stored in the government archives, but with sensitive data encrypted, 
+
+so that I can be compliant with security and privacy regulations when I provide that information to the citizen",Voltage,Ashley Bill,NSE,Large European Government,Project,#NAME?,Government,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Reduce Cost, Improve Quality","Higher availability of business services which leads to better service quality, better customer experience and higher profits",Optimize IT operations cost and effectiveness,"- MTBSI,
+- MTTR",Continuous Operations,Event Management,Correlate Symptom-Event to detect Root-Case-Events,"As the Customer Relations Agent, 
+
+I want Event Correlation (preferably automated and with AI/ML injected) to reduce the noise of event symptoms from multiple monitoring tools,  
+
+so that I can detect the important root cause events, prioritize them by service impact and correct vulnerabilities and risks that I need to focus on in seconds",OPSB,Dominique Marie,GALLIA,SFR,Project,#NAME?,Telecom,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Reduce Cost, Improve Quality","Higher availability of business services which leads to better service quality, better customer experience and higher profits",Improve efficiency in restoring the business services trough proper incident management,"- MTBSI, 
+- MTTR, 
+- CSAT",Continuous Operations,Incident Management,Automated Event - Incident Integration and recovery,"As the Customer Relations Agent 
+
+ want to automate event enrichment and handling as well as incident creation, utilize bi-directional event to incident integration, automate tasks for diagnosis and remediation using run-books 
+
+so that I can optimize the resolution time of current events / incidents.",OPSB,Dominique Marie,GALLIA,SFR,Project,#NAME?,Telecom,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Improve Quality,"Higher availability of business services which leads to better service quality, higher business performance, better customer experience and higher profits",Improve End User Productivity at lower support,MTTR,Continuous Operations,Service Monitoring,Leverage the Service Model for event correlation and root cause analysis (RCA).,"As a Customer Relations Agent 
+
+I want to understand the authorized Service Model of any (business) service including all related CI's and all past service requests, 
+
+so that I can leverage the topology for event correlation (preferably automated and with AI/ML injected) to execute a Root Cause Analysis faster and better thus to optimize the resolution time of current events / incidents.",OPSB,Dominique Marie,GALLIA,SFR,Project,#NAME?,Telecom,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Improve Quality,"Higher availability of business services which leads to better service quality, higher business performance, better customer experience and higher profits",Reduces the occurrence and recurrence of events and incidents,"- MTBSI, 
+- MTTR",Continuous Operations,Problem Management,Leverage the Service Model to reduce events and incidents,"As a Problem Manager 
+
+I want to understand the authorized Service Model of any (business) service including all related CI's and all past service requests, 
+
+so that I can leverage the topology to identify the root cause of a problem and reduce the occurrence and recurrence of events and incidents.",OPSB,Dominique Marie,GALLIA,SFR,Project,#NAME?,Telecom,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Improve Quality,"Improve End User Productivity at lower support costs so End Users can enjoy higher service quality, higher business performance, better experience and faster business Support.",Optimize IT operations cost and effectiveness,MTTR,Continuous Operations,Service Monitoring,Leverage the Service Model to identify possible origin of an alert,"As a Customer Relations Agent 
+
+I want to understand the authorized Service Model of any (business) service including all related CI's and all past service requests, 
+
+so that I can leverage the topology to identify the possible origin of an alert faster and better, thus to optimize the resolution time of current events / incidents.",OPSB,Dominique Marie,GALLIA,SFR,Project,#NAME?,Telecom,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Improve Quality,"Improve End User Productivity at lower support costs so End Users can enjoy higher service quality, higher business performance, better experience and faster business Support.",Reduce IT operations efforts. Increase efficiency in IT operations,MTTR,Continuous Operations,Service Monitoring,Leverage the Service Model for diagnosis and remediation,"As a Customer Relations Agent 
+
+I want to understand the authorized Service Model of any (business) service including all related CI's and all past service requests, 
+
+so that I can leverage the topology to help me diagnose and remediate events / incidents faster and better thus to optimize the resolution time of current events / incidents.",OPSB,Dominique Marie,GALLIA,SFR,Project,#NAME?,Telecom,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Business Alignment, Reduce Risk, Reduce Cost, Improve Quality, Business Alignment",Assuring that the investments done by the business returns the right - prioritized - outcomes and ROI and not wasted on projects / resources that are not required,"Using research, analysis and resource planning to optimise resource deployment on the highest value projects.",Maximise Output per unit of cost.,Continuous Planning,Resource Management,Optimise resource deployed on the highest value projects.,"As a Resource Manager 
+
+I want to balance resource capacity and project demand, manage resource request and staffing needs, track and identify required skills and match the right people to the right projects 
+
+so that I can execute effectively and efficiently plan to optimise resource deployed on the highest value projects.",PPM,Keith Macbeath,UK&I,Government of Ireland,Project,#NAME?,Government,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Reduce Risk, Reduce Cast","Link investments aligned to key strategic initiatives, programs, projects, resources, and budgets to inform impact of the investments to the intended business outcomes, assuring the investments are not wasted on projects / resources that are not required.",Improve efficiency in Project & Portfolio Management practice through dashboards & reporting,Maximise project success rates,Continuous Planning,Resource Management,End-to-end visibility of program delivery,"As a Head/Director of PMO 
+
+I want to have end-to-end visibility into project lifecycle visibility into resource allocation, compliance targets for time, status reporting, risk mitigation and process 
+
+so that I have the capability to provide executive stakeholders with the project, resource and financial status of the live programs as they require.",PPM,Keith Macbeath,UK&I,Government of Ireland,Project,#NAME?,Government,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Reduce Risk, Reduce Cost, Improve Quality, Business Alignment","Link investments aligned to key strategic initiatives, programs, projects, resources, and budgets to inform impact of the investments to the intended business outcomes, assuring the investments are not wasted on projects / resources that are not required.","Deliver comprehensive financial reporting (for management insights), budgeting and forecasting, reporting on CAPEX vs OPEX, portfolio (financial) performance- and full audit trail of transactions by fiscal period.",Manage project cost effectiveness,Continuous Insight,Portfolio Management,Link investments to key strategic initiatives,"As a business stakeholder 
+
+I want to enable strategic portfolio planning, portfolio management, budget optimization and – where needed - execute corrections 
+
+so that I can assure that investments have an impact on the strategic initiatives and intended business outcomes, and are not wasted on programs / resources that are not providing those business outcomes.",PPM,Keith Macbeath,UK&I,Government of Ireland,Project,#NAME?,Government,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Reduce Risk, Reduce Cost, Business Alignment",Ensure compliance with regulatory guidelines (national & European),Enabling government departments to govern & control fund management & disbursement to organizations for approved programs as per the regulatory guidelines and that those funds are tracked for the intended outcomes.,Successful compliance events,Continuous Compliance,Governance,Governance for fund management & disbursement,"As a Public Sector employee I must have robust processes and structures to prevent, detect and correct corruption, fraud, double funding and conflicts of interest so that I can ensure the management & disbursement of funds – provided to organizations for approved programs - is done as per the regulatory guidelines and tracked for the intended end-user beneficiary.",PPM,Keith Macbeath,UK&I,Government of Ireland,Project,#NAME?,Government,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Business Alignment, Reduce Cost, Reduce Risk",Ensure compliance with regulatory guidelines (national & European),"Enabling government departments to comply with the Freedom of Information Act Requests in an efficient and effective manner, reducing cost and compliance risks",MTTF,Consume,Fulfilment,Find information across different databases / data types for FOIA requests,"As a Public Sector employee, 
+
+I must have a robust method to search and find by citizens requested information spread across many different databases and data type while meeting deadlines to provide that information quickly, 
+
+so that I can comply to the Freedom of Information Act or the law of Open Government and provide this requested information on time and in full.",IDOL,Frank de Pater,NSE,Large European Government,Project,#NAME?,Government,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Business Alignment, Reduce Cost, Reduce Risk",Ensure compliance with regulatory guidelines (national & European),"Enabling government departments to comply with the Freedom of Information Act Requests in an efficient and effective manner, reducing cost and compliance risks, while complying with data privacy laws.","- MTTF, 
+- Brand Protection, 
+- Risk Reduction,",Consume,Fulfilment,"Respond to FOIA requests, on time, complying with privacy laws","As a Public Sector employee, 
+
+I must have a robust method to find by citizens requested information spread across many different databases / data type and redacting sensitive information following compliance laws, while meeting deadlines to provide that information quickly, 
+
+so that I can comply to the Freedom of Information Act or the law of Open Government and provide this requested information on time, in full while securing data.",Cross Portfolio,Ashley Bill,NSE,Large European Government,Project,"- Business Alignment, 
+- Reduce Cost, 
+- Reduce Risk",Government,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Business Alignment, Grow Revenue, Reduce Risk, Improve Quality, Grow Revenues","Application response time is aligned to business need and the application availability has increased, which has led to a better customer experience with the customers of the bank, resulting in revenue growth.",Everyone in the Performance CoE is now fully aware and in control of E2E Quality. This CoE is now responsible for driving the performance testing methodology and quality gate for all core applications through a standard process for all the stakeholders in performance testing activities. Service is suitable to be provided on subscription base or on packages bundles. LRC product could be added with service for those customers that aren’t still on our platforms.,Reduce Incidents,Continuous Integration,Test Management,Reduce incidents in production through quality testing practices.,"As the Performance and Monitoring Manager, 
+
+I want to establish a performance testing CoE, responsible for driving the performance testing methodology for all core applications, providing standard and automated practices applied by all the stakeholders in performance testing activities and by maintaining a quality gate, 
+
+so that I can reduce the incidents in the production environment, that are caused by the release of poor application quality.",Load Runner,Franca Schioppa <fschioppa@opentext.com>,NSE,UniCredit,Project,#NAME?,Financial,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Business Alignment, Improve Quality, Reduce Risk","Release velocity is aligned with business strategy while improving the quality, safety and availability of the (new) functionalities that are required to sustain, protect and grow the business.","Established a mature Application Security Testing practice enabling a security risks and threat remediation capability, realizing better security governance, increase secure product release velocity and reduce potential risks for attacks when applications are in production.","- Security scan coverage, 
+- Risk trends across applications",Continuous Integration,Security Management,Manage security risks and threats through continuous application scanning,"As the CISO 
+
+I need a mature Application Security Testing practice to manage security risks and threat by applying continuous application security scanning, establishing a security risks and threat remediation capability, both which will establish better security governance, increase secure product release velocity and reduce potential risks for attacks when applications are in production, 
+
+so that the release velocity is aligned with business strategy while improving the quality, safety and availability of the (new) functionalities that are required to sustain, protect and grow the business. ",Fortify,"Sanjib Mohanty, smohanty2@opentext.com",INDIA,UD Trucks,Project,#NAME?,Automotive,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Business Alignment, Grow Revenue, Improve Quality, Reduce Risk","Deliver the right service at the right time, aligning releases to business strategy and requirements, while protecting Travelport’s business, market reputation and their customer’s information.",Reduced the risk of cyber security breaches due to undetected application vulnerabilities introduced by changes during the software delivery lifecycle. Reduced TCO by reducing the resources needed to manage the environments needed for testing etc. Also been able to direct resources to focus on business innovation delivered by their applications.,"- Improve vulnerability scanning, 
+- Reduce risk of security breaches",Continuous Integration,Test Management,Align secured application releases to business requirements,"As the CISO I want to be able to align the code scanning capability to the companies IT Strategy and increase the number of security scans to where it needs to be, enabling our development organization to release more application more frequently and more secure, so that we can confidently protect our business from cyber security breaches caused within the software delivery lifecycle while providing the business with the functionalities they need to protect and grow their business.",Fortify,Bart Ferris,AMS,Travelport,Project,#NAME?,Tourism,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Reduce Cost","Improve customers experience and thus uphold competitiveness, thanks to faster, better and safer go-to-market with enhanced capabilities and interfaces of the mobileapps. ",Mobile App testing is simplified while reducing cost because of the hosting service. The IT organization testing team has access to an online capability immediately without having to make frequent road trips to the many locations in which mobile app testing was done by the bank. Thanks to this there was a productivity enhancement in the route to go live with new features / enhancements,"- Reduce #FTE;
+- Reduce Test Unit Cost; 
+- Reduce Mean Time To Deploy",Continuous Operations,Test Management,Improve efficiency of Mobile App testing,"As the VP of APPS 
+
+I want a simple, efficient, effective and scalable mobile testing facility – which meets our data sovereignty requirements – without having to worry about staying current with the ever-changing landscape and variety of mobile devices, 
+
+so that I can maintain high productivity in my testing and deployment teams, so that bringing enhancements to the banks mobile apps to our market is cheaper, faster, better and safer.  ",UFT,Keith Macbeath,UK&I,Lloyds Banking Group,Project,#NAME?,Financial,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Reduce Cost","Improve customers experience and thus uphold competitiveness, thanks to faster, better and safer go-to-market with enhanced capabilities and interfaces of the mobileapps. ",Mobile App testing is simplified while reducing cost because of the hosting service. The IT organization testing team has access to an online capability immediately without having to make frequent road trips to the many locations in which mobile app testing was done by the bank. Thanks to this there was a productivity enhancement in the route to go live with new features / enhancements,"- Reduce #FTE
+- Reduce Test Unit Cost; 
+- Reduce Mean Time To Deploy",Continuous Operations,Test Management,Improve efficiency of Mobile App testing,"As the VP of APPS 
+
+I want a simple, efficient, effective and scalable mobile testing facility – which meets our data sovereignty requirements – without having to worry about staying current with the ever-changing landscape and variety of mobile devices, 
+
+so that I can maintain high productivity in my testing and deployment teams, so that bringing enhancements to the banks mobile apps to our market is cheaper, faster, better and safer.  ",UFT,Nilesh Kesharwani,INDIA,Diageo,Project,#NAME?,Manufactory,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Grow Revenues, Reduce Risk","Increase customer experience 
+
+Improve the speed and quality of fulfilment of home loans while at the same time reducing regulatory risk for the bank of noncompliant lending.","Reduce Operational risks
+
+Maintain high volume of end-to-end automation requests at the same time reducing manual efforts and risks to operations. ","- Reduce Manual Effort; 
+- Improve Mean Time To Fulfil",Consume,Fulfilment,Improve fulfilment of Home Loans,"As a Home Ownership Support Manager, 
+
+I want to improve the accuracy and speed of the assessment for eligibility of all Home Grant Scheme (HGS) loans, 
+
+so that we continue to improve the fulfilment of these request better, faster and cheaper, without increasing manual effort while reducing the operational risks to Westpac at the same time reducing regulatory risk due to noncompliant lending.",OO,Ashley Winstanley,ANZ,Westpac,Project,#NAME?,Financial,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Grow Revenues, Improve Quality, Reduce Risk","Name: Increase Customer Experience and Loyalty
+
+Description: Increase use of the customer’s Payment App and increase consumption in the Petrol Stations?
+
+Value: Brand Protection, Increase Loyalty to use the customer’s Petrol Stations","Name: Compliance and Data Security?
+
+Establish the strongest E2E Encryption Platform without Token Table Data Base, being GDPRS + PCIDSS (EU) compliance – mandatory for VISA/AMEX -, highly recommended for platforms holding the data
+
+Value: Improved the encryption of transaction files to 700 Encrypted Payment Transactions per second",Improve Encrypted Payment Transaction ,Continuous Compliance,Data Protection,Protect Credit Card Data in Payment App,"As a Chief Security Officer?
+
+I want a method to protect the credit card data of my customers?
+
+So that my customers, either using cards issued by my company or from other credit card companies like VISA, Mastercard, AMEX can use my Payment App to pay in my Petrol Stations with complete protection.?",Voltage,Raul Montoya?,NSE,Repsol?,Project,#NAME?,Energy,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Reduce Risk, Reduce Cost, Improve Quality","High availability and reliability of business applications, improving customer productivity, reducing risk of non-compliance penalties. ","1) Reduce IT Effort 2) Compliance 3) Reduce Risk  
+Architecture & Deployment of the centralized Endpoint Management System incl. all needed network infrastructure, security policies and processes and procedures. This supports the Change Management process; thus, customer is now able to deploy, manage & patch all Windows 10 devices completely with minimum effort incl. a set of standard applications following their security policies (BSI). Fulfilment of Compliance Regulations / Discover & Manage Security Risks ","- improve # of successful changes; 
+- reduce % of unplanned downtime",Continuous Operations,Configuration Management,Orchestrate patching.,"As a Change Manager 
+
+I want standard, automated processes and procedures covering administration tasks, to deploy, manage and patch all device with limited user/admin intervention,
+
+so that we can deploy, manage & patch all Windows 10 devices across many locations, with minimum effort applying a set of standard security policies to avoid risks and breaches of security regulations",Cross Portfolio,Oliver Kolsch,DACH,Generalzolldirektion,Project,#NAME?,Government,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Reduce Risks","Name: Ensure Regulatory Compliance
+
+Description: We need to Ensure Regulatory Compliance with Defence guidelines through centralised and standardised methodology, to ensure an effective audit trail across the estate.  
+
+Value: Provide clear presentation and traceability, whilst capturing and managing all User and Systems Requirements to a standard which will scale across the wider Defence estate.","Name: Ensure Regulatory Compliance
+
+Description: We need to Ensure Regulatory Compliance with Defence guidelines through centralised and standardised methodology, to ensure an effective audit trail across the estate.  
+
+Value: Provide clear presentation and traceability, whilst capturing and managing all User and Systems Requirements to a standard which will scale across the wider Defence estate.","- Improve % of compliance; 
+- Reduce % of risks",Continuous Compliance,Requirement Management,Strengthen Requirements Management Compliance,"As the Requirements Manager
+
+I want to record the expression of a requirement and link it to other artifacts such as test results and track it to satisfaction. 
+
+So that I strengthen compliance for Requirements Management to conform to standardized practice with centralized visibility, that can be scaled across the wider Defence.",Dimensions RM,Barry Sloan,UK&I,Large European Defence Government,Project,#NAME?,Government,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Reduce Risks","Name: Increase Market Share
+
+Description: Ensure compliance with healthcare rules and regulations that support audit requirements, thereby reducing (financial) risks, increasing customer confidence and the customer base.
+
+Value: Increased customer confidence, reduced compliancy breaches","Name : Improve Compliancy
+
+Description : Implement a robust software test capability that centralizes test data by seamlessly integrating all data sources to ensure data consistency and automated reporting to support audit requirements and end-to-end traceability in biotech manufacturing.
+
+Value : Improved test traceability and audit success by 20%, eliminated manual task by 90%, improved overall test insight ","- Improve % test traceability, 
+- Reduce % compliance costs",Continuous Integration,Test Management,Improve Test Traceability,"As a Test Manager 
+
+I want to improve the efficiency of test management capabilities with 1) a centralized source of truth, 2) reducing the need of manual work and 3) enabling a full - automated - traceability of our tests, assuring they comply with standards and pharmaceutical regulations,
+
+So that I will reduce the associated risk and enable the team to focus on high-value activities in support of the business.",OCTANE,#NAME?,"GALLIA, INDIA",#NAME?,Project,#NAME?,Healthcare,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Business Alignment, Reduce Cost, Reduce Risk",Achieve compliance to reduce the risk of brand damage and fines caused by data breaches: while increasing customer trust.,Automated review of millions of records to make decisions on deletion / retain. Reduce Storage and infrastructure costs by building a life cycle around filesystems. Being able to support compliance with regards to data management and privacy ,"- % of security risks reduced; 
+- % reduction of costs;",Continuous Compliance,Security Management,Manage and protect document life-cycles for compliance,"As a CISO, 
+
+I want to manage the company records, understanding which records to remove and which records to retain and bring under life cycle control,
+
+so that I can comply with data management and privacy regulations to avoid brand damage and fines.  ",Voltage Fusion,Gregorio Martinez,DACH,BMW,Project,#NAME?,Automotive,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Business Alignment, Reduce Risk","Increase compliance with privacy legislation and reduce the risk of brand damage and fines, while increasing customer trust in the company's brand.","Implement a secure practice for email traffic / exchange increasing company data security reducing data breaches, while improving the audibility of our security practices and increase the protection of private communications between parties.","- Reduce % of security risks; 
+- Improve % Customer experience and retention; 
+- Reduce # Intrusion attempts",Continuous Operations,Security Management,Secure Emails Traffic,"As a CISO, 
+
+I want to secure emails traffic between my business and our customer enabling the compliance with privacy regulations and avoid data breaches, 
+
+so that we avoid non-compliance fines and damage to reputation.",Voltage,Ashley Bill,UK&I,Coventry Building Society,Project,#NAME?,Financial,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Business Alignment, Reduce Cost, Reduce Risk","Faster time-to-market resulting in higher productivity, and profit growth.","Automate and standardize the speed of creating test data to save time and resources. Move people from “low value task” to “high value task”
+Increase production timings with automation and compliance: ","- Reduce % of security risks; 
+- Reduce costs [removing manual tasks]",Continuous Integration,Test Management,Improve Secured Testing,"As a CISO, 
+
+I want the ability to create secured test data, complying with privacy regulations, but is realistic enough to allow for proper testing, 
+
+So that our company can develop / release products faster, better, safer and cheaper, aligned to the ""time-to-market"" needs from our business leaders.",Voltage,Ashley Bill,UK&I,Hasting Insurance,Project,#NAME?,Financial,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Business Alignment, Improve Quality, Reduce Risk","Name: Compliance of business rules 
+
+Description: Establish a self-governing, reliability conscious culture that promotes adherence to specifications relevant to the organization's business rules. 
+
+Value: improve situational awareness of compliance risks.","Name: Improve IT Service Delivery
+
+Description: Enable the proactive compliance and reporting of all business applications to ensure that fluctuations of architectural changes in a hybrid environment are addressed quickly to match customer agreed application SLA.
+
+Value: Improve situational awareness of service health on all business applications under rules of compliance on daily basis.",Improve % of production applications that are compliant with the defined architectural enterprise rules,Continuous Operations,Configuration Management,Report Business Service Compliance,"As a Business Owner
+
+I want to report on the compliance of my business services against availability, resilience and business impact level enterprise rules defined by the architecture department, on a daily basis.
+
+So that I can improve situational awareness of compliance risks and service health.",uCMDB,Maurizio Marzotti,NSE,ENI,Project,#NAME?,Manufactory,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Reduce Cost, Reduce Risk","Name: Optimize Value Streams and Processes Description: 
+
+Establish a culture that promotes continuous improvement of practices, policies, value chains and centre of excellences applied, to manage the lifecycle of digital products and services.
+
+Value: Cost optimization with a Continuous Improvement, Establish a culture of innovation.","Name: Improve [DBA] Service Fulfilment
+
+Description: Integrate Database Administrator activities throughout the service fulfilment process, to support a successful orchestration in such a way that the requested service offering are made available for consumption.
+
+Value: Reduced manual activities on DBs by 60%-70%.",Reduce % of repeatable “low value” activities along a defined period of time,Continuous Operations,Fulfilment Orchestration,Automate Database Operations,"As a Database Administrator
+
+I want to execute database-related operations in a repeatable and scalable manner across all database environments.
+
+So that I can improve the efficiency of database-related operations, reduce the associated risk by removing the need for manual intervention and enable my DBAs to focus on high-value activities in support of the business.",HCMX,Maurizio Marzotti,NSE,SKY Italia,Project,#NAME?,Telecom,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Business Alignment, Reduce risk","Name: Risk Management
+
+Description: Establish a self-governing, cost-conscious culture that promotes that threats are discovered, qualified, mitigated and managed.
+
+Value: Mitigate (security) risks and avoid GDPR fines (up to 4% of annual revenue).","Name: Improve/Strengthen cyber resilience
+
+Description: Strengthen cyber resilience, assure patching is applied on-time every 3 months, reduce manual activities and related risks.
+
+Value: Optimized external costs, Manage Compliance.","- Reduce % of cyber risks; 
+- Reduce # of intrusion attempts",Continuous Compliance,Governance,Security Patching,"As a Operation Manager
+
+I want a solution to apply on time patches requested by security department on all impacted GDPR applications.
+
+So that I have automated and parallelized the installation of security patches across all operating system (OS) and database (DB) environments, to ensure ongoing compliance with GDPR regulations.",DCA,"- Rosa Petracca, 
+- Marco Carlier, 
+- Ermanno Stellato",NSE,SKY Italia,Project,#NAME?,Telecom,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Grow Revenue, Improve Quality","Name: Improve Quality Assurance
+
+Description: Business services to deliver a better customer experience and revenue growth.
+
+Value: Acceleration of Release total Deployment 10-15%.","Name: Increase Application Governance, Accelerate Service Release and Quality
+
+Description: Activation of tools for Testing Process Governance, Automatic Functional & Performance, Service Virtualization.
+
+Value: Improved from no users to 900-1000 Users (Daily).","- Improve # of users using Application Services; 
+- Reduce # of Defect in production; 
+- Reduce cost in Quality Governance",Continuous Integration,Test Management,Govern Testing Processes - DevOps,"As a Quality Manager
+
+I want to ensure the quality of applications, services, and systems throughout their lifecycles, delivered by internal Testing Farms and Application Teams.
+
+So that I can Increase Application Governance, Accelerate Service Release and Improve Service Quality",OCTANE,"- Stefano Bonato, 
+- Riccardo Gelleni, 
+- Marco Carlier",NSE,SKY Italia,Project,#NAME?,Telecom,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Reduce Cost","Name: Improve time to market for new IT initiatives
+
+Description: in the context of its Continuous Integration/Delivery optimization program, customer wants to optimize the monitoring implementation process and reduce time to deploy new policies.
+
+Value: reduce internal and external cost of the monitoring implementation process and improve time to market.","Name: Reduce delivery effort to develop new policies
+
+Description: Reduce effort to develop new monitoring policies and test them.
+
+Value: drastically decrease time to deploy and effort to implement monitoring capabilities, improve overall testing efficiency by automating test execution and result analysis.",- Improve % of efficiency / effectiveness of monitoring implementation process,Continuous Integration,Test Management,Validate Monitoring Policies,"As an Operations Manager
+
+I want a capability to check and validate new policies by the execution of automatic test.
+
+So that I can reduce time to deploy new monitoring policies  and the time to go live for the new IT initiatives will be shortened.",OPSB,"- Lorenzo Ferigo, 
+- Francesco Baldi, 
+- Federica Ielo, 
+- Ivan Mariuz, 
+- Orlando Riccardi, 
+- Maggioni Fabrizio, 
+- Stefano Tarro",NSE,Vodafone Italia,Project,#NAME?,Telecom,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Business Alignment, Improve Quality, Reduce Cost, Reduce Risk","Name: Optimize Costs
+
+Description: Protect the business and avoid customer service interruption.
+
+Value: Avoid money loss and bad company reputation.","Name: Improve Certificate Management (SSL)
+
+Description: Reduce downtime of services. Allowing scheduled certificates renewal planning.
+
+Value: reducing manual task > 90%.",- Improve % efficiency / effectiveness of Certificate Management process,Continuous Operations,Configuration Management,Manage Certificates,"As an Operations Manager
+
+I want to be informed in advance about the certificate (SSL) lifecycle, enabling me to plan and control.
+
+So that I can avoid impact on the production environment and plan the activities.",uCMDB,"- Lorenzo Ferigo, 
+- Francesco Baldi, 
+- Federica Ielo, 
+- Ivan Mariuz, 
+- Orlando Riccardi, 
+- Fabrizio Maggioni",NSE,Nexi Payments,Project,#NAME?,Financial,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Business Alignment, Reduce Risk","Name: Continuity Management
+
+Description: Improve service reliability and business continuity","Name: Improve IT Service Delivery
+
+Description: Full centralization and control of the backup service for data centre to prevent potential impacts in case of disaster scenario.",Improve % of efficiency / effectiveness,Continuous Operations,Governance,Backup Compliancy Dashboard,"As an Operations Manager
+
+I want a single entry point to get the inventory of the servers under backup given complex and distributed backup platform coming from multiple sources.
+
+So that I can have an updated list of the servers compliance with backup policy and details related to the configuration.",uCMDB,"- Lorenzo Ferigo, 
+- Francesco Baldi, 
+- Federica Ielo, 
+- Ivan Mariuz, 
+- Orlando Riccardi, 
+- Fabrizio Maggioni",NSE,Nexi Payments,Project,#NAME?,Financial,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Reduce Cost, Reduce Risk","Cost saving in application release process and risk reduction for strategic business application, Faster Time to Market with better Initial Quality and Compliance improving business productivity","Name: Imp[rove Release Composition
+
+Description: On-time releases of internal and customer facing applications. Ensure all stakeholders are included and ensure transparency. Deploy an established release management framework utilizing existing IP using a service provider based approach
+
+Value: Proven framework; Time to value; Optional support available through Professional Services",#NAME?,Continuous Deployment,Release Composition,Improve Software Releases,"As a Service Owner
+
+I want to improve the efficiency and ensure full governance of Release Composition practice
+
+So that I can release my applications consistent, transparent, faster, with better quality, reducing risk and aligned to SLA objectives.",Cross Portfolio,#NAME?,AMS,Cerner,Project,#NAME?,Healthcare,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Reduce Cost, Reduce Risk",Cost saving in application release process and risk reduction for strategic business application.,"Name: Automate Release Package Creation
+
+Description: Provide a full release control managed process with improved process automation in agile mode and in a multi-platform environments scenario.
+
+Value: Increase task parallelization fulfilment of services by 80% (20-30 tasks in few min)",#NAME?,Continuous Deployment,Release Composition,Automated Release Package Creation,"As a Service Owner
+
+I want to improve the efficiency and ensure full governance of Release Composition practice with automation in a complex multi-environment scenario. 
+
+So that I can release my applications consistent, transparent, faster, with better quality, reducing risk and aligned to SLA objectives.",Cross Portfolio,#NAME?,NSE,Banca d'Italia,Project,#NAME?,Financial,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Business Alignment, Grow Revenue, Improve Quality","Gain competitive advantage among international instant interbank payments, increasing revenues.","Name: Instant payment process governance and remediation
+
+Description: Full daily governance of instant payment transactions with capability to act immediately on issues that will require recovery and intervention. 
+
+Value: Reduced time to solve issues in critical instant payment process with higher success rate in business transactions.","- Reduce TTR (Time to Repair); 
+- Improve % of successful instant payments transactions",Continuous Operations,Service Monitoring,Instant Payment Governance,"As Incident Coordinator
+
+I want to have the capability to govern the process of instant payments across international banks with a daily operational dashboard.
+
+So that I can assure full governance and resilience of the critical process to ensure business continuity and high quality of service.",OPSB,"- Alessio Livi, 
+- Francesco Verdecchia, 
+- Giuseppe Boccuti",NSE,Banca d'Italia,Project,#NAME?,Financial,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Business Alignment, Improve Quality, Reduce Risk","Quicker and better controlled payment process.
+
+Full governance and reconciliation of invoices versus orders.
+
+Risk reduction of extra payments.","Name: Higher quality of Order and Invoice Management process
+
+Description: Capability to govern a complex process like order and invoice management ensuring control of various platform integration and data exchange.
+
+Value: Improved quality of the overall process, reducing time to process invoices and reconciling orders with reduced errors.","- Improve # of issued orders vs # of approved invoices; 
+- Reduce # of financial penalties",Continuous Operations,Asset Management,Procurement Management,"As a IT Procurement
+
+I want a full automation and governance for end-to-end integration of the Order and Invoice Management process.
+
+So that we can guarantee full control of external providers invoice payment and order-invoice reconciliation.",AMX,#NAME?,NSE,GSE,Project,#NAME?,Energy,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Business Alignment, Improve Quality, Reduce Risk","Name: Security compliance
+
+Description: Provide centralized governance in a highly regulated customer, by ensuring data quality and unified process.
+
+Value: Reduce risk","Name: Unified fulfilment Requests
+
+Description: Enable the fulfilment of employees NON-IT requests reducing manual tasks in an efficient and effective manner.
+
+Value: Improve service support teams efficiency (number of tickets and time to resolve), automating whole fulfilment request process.","- Reduce # of classified data breaches; 
+- Reduce time to complete a service request",Continuous Operations,Request fulfilment,Service Requests fulfilment,"As a Service Owner
+
+I want a solution to manage service and support requests workflows related to classified furniture, appliances, phones, real estate into a managed IT process.
+
+So that I can have a centralized and consolidated governance of real estate and fault support requests.",SMAX,#NAME?,"NSE, EMERGING",#NAME?,Project,#NAME?,Government,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Reduce Cost, Reduce Risk","Name: Meeting rooms management efficiency and resilience
+
+Description: Provide end users with a quality service of meeting rooms and related equipment to allow efficiency and compliance (including physical safety). Also time to resolve issues and requests has improved strongly giving end users minimal impact on their business activities.
+
+Value: Simplicity and quality.","Name: Governance of room equipment management process
+
+Description: Enable the full traceability of maintenance and usability of meeting rooms for an easy management of usage and equipment of them.
+
+Value: improve maintenance efficiency of rooms management and provide end users with better quality and usability of meeting rooms.","- Reduce cost of meeting rooms management; 
+- Reduce # of unsatisfied business user requests",Continuous Operations,Change Management,Manage meeting rooms inventory and maintenance,"As a facility manager
+
+I want to fully govern my company meeting rooms including all electronic devices and supplies inside the room.
+
+So that I can have a centralized and consolidated governance of rooms and their contents.",SMAX,#NAME?,NSE,Large European Government,Project,#NAME?,Government,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Reduce Cost, Reduce Risk","Operational cost reduction.
+
+National regulation compliance.","Name: Discovery and tracking of critical devices
+
+Description: Unified and trusted Asset Inventory with tracking capability for critical assets of electricity station distributed in hundred of sites.
+
+Value: Improved speed for discovering, tracking and acting on management of critical devices spread out across the whole country territory.","- Reduce MTTR (Mean Time to Repair) for critical assets; 
+- Improve availability of PSNC devices",Continuous Operations,Configuration Management,Asset and configuration relation,"As a Service Owner
+
+I want to have the capability to discover critical assets, networks and devices of sensible areas like defense and track integrating with location dictionary.
+
+So that I can provide immediately devices configuration and location and speed any needed action of the device.",uCMDB,"- Alessio Livi, 
+- Lorenzo Ferigo, 
+- Giuseppe Boccuti",NSE,Terna,Project,#NAME?,Energy,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Reduce Cost, Reduce Risk","Name: Asset risk management and TCO
+
+Description: Ensure full governance of asset lifecycle to a centralized team to respond quickly to any need of identification, tracking and audits for compliance regulations. Reduce cost of management of complex goods in a large and heterogeneous environment.
+
+Value: Reduce risk of audit compliance failures, improving efficiency of centralized tracking team to manage growing environments with same team size.","Name: Improve asset management efficiency
+
+Description: provide full management of asset lifecycle with discovery, qualification and tracking of goods using centralized approach and RFID to provide one solution to provide quick and updated information on all company goods.
+
+Value: Reduce effort and TCO of managing compliance and audits.",#NAME?,Continuous Operations,Asset Management,State assets management,"As an Asset manager
+
+I want a solution to manage delivery, inventory, maintenance and financials for device property in the company.
+
+So that I can have a centralized safekeeping and full traceability of all goods.",AMX,#NAME?,NSE,Large European Government,Project,#NAME?,Government,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Reduce Risk",IT processes are compliant with privacy regulations reducing the risk of fines and reputational damage to the company.,"Test data creation is fast, automated, cloneable and reusable – saving costs of resources and staff.","- Reduce % of costs for delivery activities; 
+- Improve # of new products or services; 
+- Improve % availability / performance for owned service; 
+- Improve % of relevant digital services",Continuous Deployment,Test Management,Provide Realistic Test Data,"As a CISO
+
+I want a capacity to create test data that simulates the production environment, quickly, consistently and compliantly enabling real testing.
+
+So that I can improve the speed of testing and reduce risk by limiting liability from data breaches.",Voltage,James Revill,UK&I,London Markets,Project,#NAME?,Financial,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Reduce Risk","Description: Business-to-business data transfers are compliant and protected from breaches
+
+Value: Maintain strong reputation as a secure business.","Description: Protect the contents of files by masking and anonymization
+
+Value: Data transfers are secure from data loss or breaches","- Reduce # of security risks; 
+- Reduce % of costs for delivery activities",Consume,Governance,Protect data content transferred between businesses,"As a CISO
+
+I need the capacity to anonymize or mask the contents of files being sent outside my business.
+
+This means that should the files fall into the wrong hands they will be unusable and remain protected.",Voltage,Ashley Bill,UK&I,Norges Bank,Project,"- Improve Quality;
+- Reduce Risks",Financial,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Reduce Cost, Reduce Risk","Name: Optimize Return of Investment
+
+Description: Establish a self-governing, cost-conscious culture that assures companies finance are well managed and use of companies financial resources are optimized. Investments provide for a Return of Investment.
+
+Value: Optimize use of assets and resources.","Name: Optimize Service Quality & Infra Resilience through measurement and visualization
+
+Description: Provide an objective view on actual IT performance, capacity and availability through a dashboarding solution bridging IT and Non-IT audiences. It serves as input to the quality and Capacity improvement activities.
+
+Values:
+-Rightsizing Infrastructure
+-Detect Weak points
+-Stabilizing of Services","- Improve % of availability / performance improved for delivered service; 
+- Improve % of Service Reliability; 
+- Improve % of Service Health improved",Continuous Operations,Service Monitoring,Stabilise and Improve Service Health,"As head of IT
+
+I want to have real-time view of my IT environment status, usage and capacity.
+
+So that I can make bold decisions to ensure stable Service delivery.",OPSB,"- Matthias Hennig, 
+- Peter Gotthardt, 
+- Michael Gross, 
+- Andreas Blockisch",DACH,ECB,Project,#NAME?,Financial,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Business Alignment,"Name: Enable focus on core business
+
+Description: Optimizing the costs by transforming the manual work to more digitalized services.
+
+Value:
+- Increased Compliance Score
+- Optimized Value Streams and Processes
+- User satisfaction
+- Optimized ROI","Name: Orchestrate and automate digital services
+
+Description: Integrate activities throughout the service fulfilment process, to support a successful fulfilment (orchestration) in such a way that the requested service offering are made available for consumption for consumers.
+
+Value:
+- Improved IT service delivery
+- Improved deployment
+- Automate fulfilment requests","- Improve % of Operational Excellence; 
+- Reduce % of costs for delivery activities; 
+- Improve Customer Satisfaction (NPS, MTTR, MTBSI, MTBF, MTTF); 
+- Improve $ of TCO and $ price of digital products / services; 
+- Reduce # of OPEX and CAPEX; 
+- Improve % of output / productivity of operations",Continuous Operations,Fulfilment Orchestration,Automate Request fulfilment,"As IT Manager
+
+I want to orchestrate digital services throughout my company.
+
+So that I can help my organisation to be successful in their transformation to automated digital services, reduce manual effort by process automation and simplify the request and fulfilment process.",Cross Portfolio,#NAME?,DACH,Debeka,Project,Business Alignment,Healthcare,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Reduce Cost,"Name: Improve Vehicle Plate Service Information Sharing
+
+Description: Users from different police agencies can request and use data in an efficient and secure manner.
+
+Value: No police agents are required to attend requests (FTE savings). City Halls will increase the number of fines.","Name: E2E Secure Exchange Information
+
+Description: The consultation of data is fully delegated to the users of the different police agencies, according to their profiles, guaranteeing the security of the data and the E2E process.
+
+Value: Self-service reduces manual intervention, reducing IT investment.","- Increase # of accesses; 
+- Reduce # of manual requests ; 
+- Increase # of fines",Consume,Identity Management,Secure License Plate Sharing,"As a Chief Security Officer
+
+I want to allow a secure access to vehicle license plates and owner information to the Local Police Departments
+
+So that we accelerate offender identification and reduce the number of infractions without penalties.",NetIQ,Samuel Chapa,NSE,Guarda Civil,Project,Reduce Cost,Government,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Grow Revenues,"Name: Increase Customer Experience and Loyalty
+
+Description: Increase petrol consumption in the Petrol Stations through easy payment with customer’s Payment App,  authorized for use by all major credit card companies, increasing business
+
+Value: Brand Protection, increase loyalty and satisfaction","Name: Compliance and Data Security
+
+Description: Strongest E2E Encryption Platform without Token Table Data Base. Encryption of Transaction Files. 
+
+Value: GDPRS + PCIDSS (EU) compliance, brand protection, reduce risk for fines – mandatory for VISA/AMEX ",Improved # of Encrypted Payment Transactions,Continuous Compliance,Data Protection,Protect Credit Card Information in E-Wallet,"As a CISO
+
+I want to protect my customers credit card information that they have added to an e-wallet on their phone,
+
+So that my customers, can use that app to pay in my Petrol Stations which will increase their satisfaction and loyalty. ",Voltage,Raul Montoya,NSE,Choose Option,Project,Grow Revenues,Energy,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Reduce Cost,"Name: Improve Accuracy of Printer Services consumption and billing
+
+Description: Ensure departments are appropriately charged for their printing services consumption. Cost control.
+
+Value: Zero printed pages unbilled","Name: Accurate Printing Inventory and Status
+
+Description: Identify printers deployed and not billed. Efficient tracking of printing services consumption.
+
+Value: Zero printers un-identified and not considered for billing.","- Zero printed pages unbilled; 
+- Zero printers un-identified",Consume,Financial Management,Improve Printing Services Financials,"As a Financial Manager
+
+I want to understand what printers are deployed and working, what is the consumption of the different printing services per department,
+
+So that I’m able to bill them according to their consumption and improve accuracy and predictability of the billing to the different departments and understand the cost of my printing services to use for further improvement ",uCMDB,Francisco Javier Valencia,NSE,Inditex,Project,Reduce Cost,Manufactory,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Reduce Cost, Reduce Risk","Name: Optimize Costs
+
+Description: Higher availability of business services which leads to better service quality, higher business performance, better customer experience and reduced operational cost.
+
+Value:
+- Reduction of operational cost for first and second level support
+- Reduced costs by reducing system outages
+- Reduced costs by reducing outages of critical business applications","Name: Improve IT Service Management
+
+Description: Establish central event management solution to support ITSM processes with a comprehensive Service Status overview, root-cause-analysis and event-correlation.
+
+Value:
+- Improve the detection of important root cause events that need immediate focus from the support groups
+- Improve the routing of events to the right resolver groups
+- Improve the speed of discovering the business impact and the selection of appropriate actions to execute
+- Reduction of incidents to be handled at the helpdesk","- Improve $ of ROI; 
+- Improve % of Service Availability; 
+- Improve % of Service Performance; 
+- Improve # of Compliance Score points; 
+- Improve % of User Satisfaction",Continuous Operations,Event Management,Single Pain of Glass,"As a Service Delivery Manager
+
+I want a consolidated view of service performance and availability.
+
+So that I can save costs by reduction of the number of incidents and the mean-time to repair (MTTR).",OPSB,"- Maike Bertow, 
+- Michael Gross, 
+- Andreas Schnur
+- Reiner Buehl",DACH,Bosch,Project,#NAME?,Manufactory,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Business Alignment, Improve Quality, Reduce Cost, Reduce Risk","Name: Compliance
+
+Description: Compliance violation (unsupported software) was removed.
+
+Value: Improve compliancy.","Name: Improve IT Service Deployment
+
+Description: Modernizing IT Monitoring through migrating and expanding to the latest data lake solution. Improve observability through a consolidated view on infrastructure and services.
+
+Value:
+- Software compliance is maintained
+- Risks of vulnerabilities are reduced
+- Latest software features become available for innovations",Improve % ofNOC/SOC staff satisfaction and happiness,Continuous Insight,Event Management,Collect and centralize monitoring data,"As a Operations Management owner
+
+I want to have a consolidated data lake architecture that is reliably filled with monitoring data
+
+So that I can support service operations and have the foundation to develop additional monitoring innovations.",OPSB,Matthias Hennig,DACH,Swiss Post,Project,#NAME?,Government,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Reduce Cost, Reduce Risk","Name: Optimize Value Streams and Processes
+
+Description: Improving the data basis for well-founded decisions in the service planning process.
+
+Value:
+- Reduction of overspending on provided capacity
+- Improving speed for creation of new and extended services
+- Optimizing existing services","Name: Improve Service Reliability
+
+Description: Establish Data Lake to support ITSM processes with a comprehensive long term reporting solution for availability and performance data. 
+
+Value:
+- Improve IT capacity planning with long-term reporting data
+- Improve root cause analysis with consolidated reports from network and system management
+- Improve problem management with historical data to analyse incidents - Reduce mean time to repair (MTTR)","- Improve % of Customer Satisfaction (NPS, MTTR, MTBSI, MTBF, MTTF); 
+- Improve % availability / performance improved for owned service",Continuous Operations,Event Management,Troubleshoot Performance Issues,"As Service Owner
+
+I want to have custom dashboards with service related long-term data.
+
+So I can make informed decisions in service design and capacity planning processes.",OPSB,#NAME?,DACH,Bosch,Project,#NAME?,Manufactory,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Business Alignment, Improve Quality, Reduce Cost, Reduce Risk","Name: Optimize Value Streams and Processes
+
+Description: Establish an agile customer organization that consistently provides outcome and value to the business
+
+Value:
+- Increased Business Agility
+- Faster Time to Value
+- Optimized ROI
+- Optimized Costs
+- Risk mitigation","Name: Improve Route-to-Live Cadence
+
+Description: Switch to agile development methodology with sets of rules, standards and best practices related to the development pipeline, from coding and building through testing and release. Improving the route-to-live cadence.
+
+Value:
+- Deliver (new) digital services in full on time
+- Improving the route-to-live cadence
+- Optimized Value Streams and Processes
+- Increased development process transparency","- Improve % of Customer satisfaction and retention; 
+- Improve # of new idea's / enhanced products or services; 
+- Reduce % of costs for delivery activities; 
+- Improve % of service delivery staff attrition; 
+- Improve % of delivery staff satisfaction and happiness",Continuous Planning,Release Composition,Transform Organisation for Agile Development,"As Service Manager
+
+I want to transform my organisation to implement requirements faster by switching to an agile implementation approach.
+
+So that I am able to fulfil business requirements faster, optimize efficiency in development cycles and collaborate closer with the business.",SM9,#NAME?,DACH,Toll Collect,Project,#NAME?,Logistics,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Improve Quality,"Improve the availability and reliability of business services, thus improving the productivity of business processes and thus profit and customers experience.",Completeness of the Configuration Management System to be consumed by many enterprise service management practices and assure better service levels and compliance.,"- Reduce % of deviation from the real corporate asset in use ;
+- Improve service management practices; 
+- reduce compliance risks",Continuous Operations,Configuration Management,Improve CMS discovery from standalone systems.,"As the Configuration Manager
+
+I want to synchronize the real time available IP ranges from the network IPAM domain to the CMDB discovery parameters, enabling the discovery of that information and the automatic inclusion in my single source of truth (the CMDB)
+
+So that I improve the completeness of the service models and make this available to all consumers of the CMS (not just the network team) ",uCMDB/UD,Soren Hansen,NSE,Sykehuspartner,Project,Improve Quality,Healthcare,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Business Alignment,"Minimize business impact caused by important programs that did not deliver outcomes in the right quality, at the right time for the right cost.","Name: Improve [IT] Portfolio Management
+
+Description: Automated and centralized integration between technologies to increase the governance of the IT portfolio giving the ability to monitor the overall project portfolio progress and quality for both waterfall and agile projects. 
+
+Value: Optimizing the Value Streams and Processes to reduce the risk of projects overrun, quality drops and cost increase.","Improve % of projects with regards to quality, outcome, time and budget",Continuous Planning,Governance,Optimize Program Management,"As the Program Manager
+
+I want all available information about my programs and projects to be consolidated and synchronized in “one single source of truth” enabling the governance the progress, resources, outcomes and quality for both waterfall and agile projects.
+
+So that I can improve the completion of important programs on time, delivering the outcomes as requested on time whiles reducing the risk of negative impact on the business and increase in cost.",PPM,Alessandro Baiocchi,NSE,UniCredit,Project,Business Alignment,Financial,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Business Alignment,"Minimize business impact caused by important programs that overrun budget, thus reducing ROI.","Name: Manage IT Cost
+
+Description: Enable the proactive management and monitoring of [IT] costs within the organisation, reduce costs.
+
+Value: Optimize Value Streams and Processes by comparing planned costs with actual costs.",Improve % of projects that stay within budget,Continuous Planning,Governance,Compare Actual against Planned Project Cost,"As Program Manager
+
+I want to compare actual cost of projects activities to against planned costs.
+
+So that I can take actions to avoid budget overrun and capture lessons learned for next budget activities.",PPM,Alessandro Baiocchi,NSE,UniCredit,Project,Business Alignment,Financial,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Business Alignment,Optimize Return of Investment.,"Name: Improve [IT] Portfolio Management
+
+Description: Situational awareness of portfolio effectiveness and improve project observability. 
+
+Value: Get insights into overall project performance through trend analysis.",Improve % of healthy projects,Continuous Planning,"Program, Project, and Management",Project Management Dashboard,"As a Program Manager
+
+I want to maintain a project management dashboard (real-time and with historical information) showing typical project management KPIs enabling me to monitor (real time) and compare (historical) the health of my projects.
+
+So that I can improve the health of my projects, improving ROI and reducing risks to the business and it’s reputation.",PPM,Alessandro Baiocchi,NSE,UniCredit,Project,Business Alignment,Financial,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Business Alignment,"Improve productivity of business applications, aligning to business objectives, customer satisfaction and growth.","Name: Improve [IT] Service Development
+
+Description: Optimize Value Streams and Processes. Continuous Improvement.
+
+Value: Proactively minimise risk and improve efficiency, ensuring the success of development initiatives.",Reduce % of defects,Continuous Integration,Test Management,Monitor Testing Quality,"As a Project Manager
+
+I want to receive quality metrics in the program dashboard assuring planning, development and testing of all requirements is done at the right quality.
+
+So that I reduce the number of defects in applications that are deployed, reducing risks of unavailability of business applications, causing reductions of productivity.",PPM,Alessandro Baiocchi,NSE,UniCredit,Project,Business Alignment,Financial,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Business Alignment,"Name: Optimize Value Streams and Processes
+
+Description: Establish a self-governing, cost-conscious culture that promotes the continuous improvement of practices, policies, value chains and centre of excellences applied, to manage the lifecycle of digital products and services.
+
+Value:
+- Governance and sustainability
+- Continuous Improvement
+- Establish a Learning Organization
+- Establish an innovative culture","Name: Improve [IT] Service Development
+
+Description: Integrate activities throughout the development process, to support the creation of a seamless connection between development, testing, and operation; proactively minimise risk and improve efficiency, ensure the success of development initiatives.
+
+Value:
+- Improve Product Quality
+- Improve Requirement Management
+- Agile response to business needs","- Improve $ of Return of Investment, $ value and payback time; 
+- Improve % of increased output / productivity of technology; 
+- Improve % of functionalities; 
+- Reduce % of developmental waste; 
+- Improve # of frequency of deployments of services and functionalities",Continuous Planning,"Program, Project, and Management",Agile Enablement,"As a Release Train Engineer
+
+I want better coordination and alignment of feature development across the agile release trains
+
+So that features can be completed and released more quickly.",Cross Portfolio,#NAME?,DACH,Debeka,Project,Business Alignment,Healthcare,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Improve Quality,"Name: Reduce operational cost.
+
+Description: Maintain market reputation by avoiding audit and regulatory risk. Reduce operational costs by not having to employ additional heads.
+
+Value: Mitigate audit risks. Reduce cost of service delivery.","Name: Reduce service cost
+
+Description: Establish set of processes to gain insights into service delivery operations, focusing on identifying and mitigating commercial risks and unnecessary costs.
+
+Value: Mitigate audit risks. Reduce cost of service delivery.","- Improve % of SLA Targets met; 
+- Reduce $ of Operating Costs 
+– Overheads",Continuous Operations,Service Level Management,Track service quality,"As the Client Services team manager,
+
+I want to monitor and track the performance of my team.
+
+So that transaction and instruction requests are handled within the SLA timeframes.",SBM,Alex Gilkes,UK&I,Irish Life Investment Management,Project,Improve Quality,Financial,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Improve Quality,"Name: Improved cost-of-compliance
+
+Description: Provide controlled and auditable workflows to enforce company standards and best practices, and to provide notification of outstanding actions.
+
+Value: Velocity of change increased.","Name: Journey to zero defects
+
+Description: A tailored workflow to manage and control change to existing design. Incorporates a series of approval gates to meet quality standards and regulatory compliance.
+
+Value: Quality improved",Improve % of Service availability and continuity both on business and IT levels,Continuous Operations,"Program, Project, and Management",Engineering quality and compliance,"As an aviation engineering business
+
+I want to integrate a robust change control process that upholds our safety standards.
+
+So that we solidify our reputation for high-quality, compliant aviation products and instil greater confidence among our customers.",SBM,Alex Gilkes,EMERGING,Martin Baker,Project,Improve Quality,Aviation,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Reduce Cost,#NAME?,#NAME?,Reduce # Cyber Attacks,Continuous Deployment,Identity Management,Improve Identity Lifecycle Management,"As the CISO
+
+I want to establish an certified, secure, identity management system that provides audit trails across my organization having a single point of administration for identities and accountability
+
+So that I improve identity lifecycle management avoiding unauthorized access to companies' premises, assets IP, knowledge, IP and any data.",NetIQ,"- Karsten Weimann, 
+- Norbert Klasen;
+- Hildo Krop, 
+- Leo de Ridder",NSE,DHL,Project,Reduce Cost,Logistics,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Reduce Cost,#NAME?,#NAME?,Reduce # Cyber Attacks,Continuous Deployment,Identity Management,Improve Identity Lifecycle Management,"As the CISO
+
+I want to establish an certified, secure, identity management system that provides audit trails across my organization having a single point of administration for identities and accountability
+
+So that I improve identity lifecycle management avoiding unauthorized access to companies' premises, assets IP, knowledge, IP and any data.",NetIQ,"- Karsten Weimann, 
+- Norbert Klasen;
+- Hildo Krop, 
+- Leo de Ridder",NSE,Continental AG,Project,Reduce Cost,Automotive,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Reduce Cost,#NAME?,#NAME?,Reduce # Cyber Attacks,Continuous Deployment,Identity Management,Improve Identity Lifecycle Management,"As the CISO
+
+I want to establish an certified, secure, identity management system that provides audit trails across my organization having a single point of administration for identities and accountability
+
+So that I improve identity lifecycle management avoiding unauthorized access to companies' premises, assets IP, knowledge, IP and any data.",NetIQ,Joe Schafer,AMS,Wright - Pad Credit Union,Project,Reduce Cost,Financial,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Reduce Cost,#NAME?,#NAME?,TBD,Continuous Deployment,Identity Management,Self-service for file shares and related permissions ,"As the Security Officer 
+
+I want to assure that files are available for anyone who requests access and sharing while maintaining the confidentiality and integrity of the information. 
+
+So that I have established a compliant and efficient system to share and manage access to files in our organization and have structured request and approval processes including documentation, audit and reporting.",NetIQ,#NAME?,DACH,Wacker Chemie,Project,Reduce Cost,Chemical,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Reduce Cost,#NAME?,#NAME?,TBD,Continuous Compliance,Governance,License usage review,"As the Asset Manager 
+
+I want to review and verify the usage and consumption of expensive software licenses in regular intervals.
+
+So that I have a clear view on used, needed and unused licenses, optimize license models and minimize license costs.",NetIQ,#NAME?,DACH,Continental AG,Project,Reduce Cost,Manufactory,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Business Alignment,Cross Department Collaboration.,SaaS Solution with multiple SSO integrations – a PPM solution accessible country wide via the web.,TBD,Continuous Planning,"Program, Project, and Management",Government cross-department collaboration,"As a Government
+
+I want departments to collaborate on projects in a pan-government space.
+
+So that risk is mitigated and cost streamlined and departments become more closely aligned, rather than silo’d.",PPM,#NAME?,UK&I,Large European Government,Project,Business Alignment,Government,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Business Alignment,"Name: Asset Management Standardisation & Consolidation
+
+Description: We want to be able to achieve better Business Insights and Operational Efficiencies through a consolidated and standardised Asset Management platform.
+
+Value: This will enable better visibility and management of our Assets and more control over our Compliance position.","A consolidated and standardised Asset Management platform through:
+- Asset definition
+- Data modelling Standardisation of organisational processes
+- The implementation of a new Asset Management solution across the organisation.
+
+This will enable a more streamlined and consistent Asset Management Platform, providing cost efficiencies in operate and run and saving cost by consolidating multiple asset management platforms, processes and teams.","- Reduce % of Software Asset Lifecycle Cost; 
+- Improve $ of Software Licence Compliance Rate; 
+- Improve % of Operational Cost; 
+- Reduce % of Asset Management Service Cost ",Continuous Compliance,Asset Management,Transformation to a converged Asset Management Service,"As an IT Operations Director
+
+I want to improve my compliance position, visibility, efficiency and reduce cost.
+
+So that I can optimise cost and efficiency across the whole organisation.",AMX,Gary Shrubb,UK&I,Large European Government,Project,Business Alignment,Government,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Business Alignment,"Name: Tax calculation management
+
+Description: A technology based solution required to trades. To calculate withholding tax at high trading volumes, not only to manage volumes but also to provide reports on the trades and tax calculations when required.
+
+Value: To comply with German tax laws","Name: Trade transaction monitoring
+
+Description: Provide an service platform that logs tax calculation requests in real time for trades where German Withholding Tax applies","- Improve % of Data retention; 
+- Reduce % of Time to capture",Continuous Insight,Financial Management,Monitor Real Time Transactions,"As a Tax Reporting Specialist
+
+I want a technology based solution to track any trades that require Withholding Tax for a branch of entities.
+
+So I can track the tax calculations in real time and report on this as required.",SBM,Matthew Bunyard,UK&I,Deutsche Bank,Project,Business Alignment,Financial,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Business Alignment,"Improve quotation process
+
+Transform the quotation process for to increase the volume of quote, reduce the time to quote, improve quote quality and increase the volume of quote requests.","Improved service response
+
+Provide a best in class RPA solution to query data in real time to provide fast quote times","- Reduce $ of time to quote; 
+- Reduce # of errors; 
+- Improve $ of Revenue",Continuous Operations,Request fulfilment,Real time information capture for quoting,"As a Insurance Sales Agent
+
+I need a solution to enable automated data capture throughout the quotation process.
+
+So I can minimise any data entry errors throughout the quotation process, and increase the mean time to respond to quotes; allowing me to produce more quotes and ultimately generate more revenue.",RPA,Matthew Bunyard,UK&I,BISL,Project,Business Alignment,Financial,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Reduce Risks","Name: Reduced applications downtime
+
+Description: Reducing the occurrence and duration of business service outages, thereby improving customer productivity and experience
+
+Value: Increased productivity and experience
+","Name: Automated Cloud Discovery and Service Modelling
+
+Description: Automated Service Modelling enables you to model and maintain the infrastructure of a business service 
+
+Value: Automated Relationship Mapping Process Efficiency","- Reduce MTTR; 
+- Improve MTBSI",Continuous Operations,Configuration Management,Improve Service Model accuracy,"As a Practice Manager (Incident, Change, Problem, Release), 
+
+I want a capability that will create total observability which make the business impact analysis of an Incident, Change, Problem or Release effective and efficient - thanks to availability of Service Models - in order to improve IT operational efficiency
+
+So that we can improve the reliability and availability of business services and thus improve customer experience and business outcomes.",uCMDB,Jimmy Rousseau,GALLIA,Bureau Veritas,Project,"- Improve Quality, 
+- Reduce Risks",Technology,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Reduce Risk, Grow Revenues","Name: Increase company revenue and reduced GDPR compliance risk
+
+Description: Enabling commercial use of customer experience data to an external eco-system while being compliant with regulations and laws
+
+Value: Avoid GDPR fines and brand damage","Name: Automate specific Data Encryption
+
+Description: Reduce the manual tasks to anonymize data - by encrypting it in an efficient manner - maintaining the consumption of that data for commercial purpose - enabling GDPR Compliance to avoid penalties and brand damage
+
+Value: Reduce manual labour, moving people from low value tasks to high value tasks",Reduce reputational risk,Continuous Compliance,Data Protection,Anonymize data that is for sale ,"As a CISO
+
+I want a capability to protect Personal Identification Information in the customer data while maintaining the structure for commercial purpose, such as analysing statistics, 
+
+so that we are compliant with GDPR regulations, avoiding breaches while generate additional revenue.",Voltage,Jean-Charles Ripault,GALLIA,Carrefour,Project,"- Reduce Risk, 
+- Grow Revenues",Logistics,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Reduce Risks","Name: Enable Business Service Lifecycle Management
+
+Description: Support service management, assurance, security. Supports (compliance) audit
+ 
+Value: Enabling the Digital Enterprise","Name: Centralized global IT inventory and topology
+
+Description: Implement a CMS solution at enterprise scale (9 million CI)
+ 
+Value: Central source of truth to support and improve ITSM processes",#NAME?,Continuous Operations,Configuration Management,One Single Source of Truth (CS),"As a Configuration Manager, 
+
+I want a single source of truth presenting Service Models and (historical) information thus to support Service Fulfilment, Management and Assurance practices, better costs management (redundancies, licenses, etc.) and improve efficiency / effectiveness of response in case of crisis
+
+So that we can deliver business applications better",uCMDB,Jean-Charles Ripault,GALLIA,Orange,Project,"- Improve Quality, 
+- Reduce Risks",Telecom,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Improve Quality,"Name: Strengthening Governance for Alliances
+
+Description: Both Renault and Nissan use Bosch as a manufacturer's option for navigation systems. Since test cases are different from those for Japan and Europe, the sharing of test cases allows for more efficient test management, quality control and failure information sharing.
+
+Value: Governance compliance rate [100%]","Name: Improve Test Management
+
+Description: Test management has been streamlined and optimized for car navigation testing. Test case management in Excel has been streamlined by using QC to create, update, execute, and register test cases. Automated test result capture has also been automated. 
+
+Value: Improved management of test management reduces management time [50%]",% Increased output / productivity of development,Continuous Integration,Test Management,Optimize of Test management,"As a system developer
+
+I want to share test cases, defects and other failures from car navigation tests to other parts of the company in order to reuse the test cases.
+
+So that I can improve the quality and performance of test practices and produce navigation systems faster.",ALM QC,Hiroshi Nakai,JAPAN,"Nissan Motor Co., Ltd.",Project,Improve Quality,Automotive,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Improve Quality,"Name: Improving corporate trust.
+
+Description: Improved quality and availability of services used by end user supported the management vision resulting in better customer experience and revenue growth.
+
+Value: Reduces critical service unavailability [xx%]","Name: Improved opportunities to conduct testing with testing tools.
+
+Description: Drive application of the performance testing methodology to all core applications as part of end-to-end application quality control.
+
+Value: Improve test coverage for all applications with performance testing tools [90%]",Improve % deployment of new requirements success rate,Continuous Integration,Test Management,Improve application deployment,"As the Test Manager
+
+I want to improve the quality and performance of our testing capability by establishing a Test Centre of Excellence.
+
+So that I can improve the quality and performance of application deployment and improve business performance",Cross Portfolio,Hiroshi Nakai,JAPAN,JR East Information Systems Company,Project,#NAME?,Government,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Business Alignment,"Improve Service Quality, reliability and functionality thus improving customer experience and producibility. ","- Lifecycle management of IT landscape guaranteed whiles reducing manual labour to do so. 
+- Maximize the value of technology investment by leveraging all functionalities from the latest releases. 
+- Supporting Enterprise Architecture strategies (like Cloud First strategies). 
+- Make sure employees can spend more time on managing services instead of upgrading the service management platform. ",Improve % Service Quality; Reduce % of Risks,Continuous Planning,Enterprise Architecture,Maintain capable IT landscape,"As a CIO 
+
+I want to assure my IT landscape is always up-to-date, compliant, consolidated in one single platform, with the latest technology and applications capabilities
+
+So that I: 
+- reduce the cost for extra support and maintenance (reducing the number of tools);
+- always leverage the latest capabilities and functionalities to provide better services and outcomes for my customers;
+- maintain device compliance, thus avoiding unexpected outages; reducing my MTTI and MTBF
+- maintain software compliance reducing performance and security issues 
+- improve availability and complex integrations",Cross Portfolio,Several,CROSS CMT,#NAME?,Project,"- Improve Quality, 
+- Reduce Risks",Financial,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Improve Quality," Reduce penalties, brand damage and high support cost ","Consolidation of software assets in a more cost-effective and streamlined process. Centralized asset management information into one technology improving asset management across the company, resulting better compliance with contracts and better stewardship of assets",Reduce TCO by 10%; Improve % effectiveness of Asset Management,Continuous Operations,Asset Management,Improve asset management capabilities,"As a VP of Operations 
+
+I want all of the company's information about our assets to be efficiently and cost effectively managed from one single point of truth, 
+
+so that I can track our assets from cradle to grave, assure those assets return value, track and report the value and ownership of capital assets throughout their lifecycle, be compliant with contracts and reduce the risks for fines and brand damage",SMAX,Roisin Jordan,NSE,Achmea,Project,#NAME?,Insurance,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Reduce Cost",Customer satisfaction by faster delivery times,"Improved data quality by automated administration
+Same outcome every time
+Better SLA achievements
+More effective use of specialized employees
+Show data in Self Service forms from authorized trusted external data sources
+Transforming manual to automated processes, small step by small step, modular
+Transparency in fulfilment progress of tickets
+Same outcome every time
+Automation through Self Service",#NAME?,Continuous Operations,Fulfilment Orchestration,Improve Service Request fulfilment,"As Service Delivery Manager
+
+I want a transparent, standardized and efficient capability to (orchestrate) the fulfilment of service requests
+
+So that requests will be fulfilled faster, better and safer, improving our service delivery practices while reducing costs",SMAX,"- Cas van Voorthuizen, 
+- Elwin de Zwaan",NSE,Dutch Police,Project,"- Improve Quality, 
+- Reduce Cost",Government,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Business Alignment","Reduce turnaround time and cost of provisioning applications, and access to applications to users.",Reduce time required to add an application or access to an application to an existing automation that provisions this service.,"- Improve % Customer satisfaction and  retention
+- Improve MTTF",Consume,Service Catalogue and Offer Management,Improve Offer Management,"As the Service Catalogue Manager
+
+I want a capability that provides access to catalogue items fast and safe after applications have been deployed
+
+so that customers can find / consume these new applications almost immediately when it comes available, improving business performance and customer experience",SM9,#NAME?,ANZ,Australian Defence,Project,#NAME?,Government,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Improve Quality,"Improve the effectiveness of business processes through the consumption of the right content at the right time, improving customer experience, improve profits","Improve the quality of content management in a consolidated platform with functionalities such as high-speed search, automatic analysis, categorization, and effective consumption. ",Improve % consumption of quality content,Continuous Insight,Consumption Usage,Improve Content Quality,"As an IT director 
+
+I want a high quality content management capability, capable of the efficient and effective lifecycle management of content and data and all other necessary content management functionalities such as search, publish, edit and secure
+
+so that our customers can consume, edit and secure their important (business) content, improving the effectiveness of their business processes ",IDOL,Stephane Caranobe,GALLIA,Thales,Project,"- Improve Quality, 
+- Reduce Risks",Manufactory,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Reduce Cost, Improve Quality","Name: Reduce Real State cost, reduce/relocate 
+
+Data Centres Description: Address a reduction of the Real State cost by consolidating, relocating or moving active assets in the Data Centres to the Cloud 
+
+Value: Reduce Cost of Operation, according to plan, without Business Disruption","Name: Improve Datacentre Transformation 
+
+Address Data Centre Transformation challenges by bringing a data-driven, intelligence-based approach to yield Data Centre Migration Analysis (Migration Move Group Analysis, Application Migration Assessment, Server Utilization Assessment). Fast buildup of DC topology. Application Assessment faster, less expensive and with less risk. Identify/decommission Zombies (unused servers/devices). Identify ungoverned (shadow) IT.
+
+Value: 
+? 400% ROI (Return on Investment) after 3 months 
+? Savings by retiring or consolidating servers (43 Zombie servers identified for decommissioning & consolidation) 
+? 85% faster DC migration application assessment at 50% of the direct cost with 90% less error 
+? Saving in DC migration budget 
+? 50% cheaper application assessment",Reduce $ TCO,Continuous Operations,Resource Management,Improve Datacentre Migration (to the Cloud),"As a Chief Technology Officer 
+
+I want to execute effective DC migrations (On-Premise, Public/Private Clouds), moving the active assets (not ghosts and obsolete assets) while reducing risk and without business impact 
+
+so that I effectively reduce TCO (real estate, infrastructure components and support), while continue to deliver high quality (IT) services",SDCA,Raul Montoya,NSE,DXC,Project,#NAME?,Energy,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Improve Quality,"Name: Improve (IT) Service Assurance
+Description: Enable the business to have better reliability / availability of services, thus improving the productivity of the business and grow revenue 
+Value: Ensure critical IT services are available and performing","Name: Improved Service Quality and Assurance 
+
+Description: Prescriptive framework, demonstrating the value, to realize AIOPs benefits. 
+
+Value: Improve IT Operation by reducing the number of events and automating the resolution of incidents","- 25-30% event reduction out-of-the-box, 
+- 80% fewer Priority-1 incidents, 
+- 94% automated resolution, 
+- 50% faster MTTR",Continuous Operations,Event Management,Improve Service Monitoring,"As a VP of OPS 
+
+I want to identify and monitor all aspects of infrastructure components for critical IT services, providing better visibility
+
+So that IT can assured the service health by understanding their availability and reliability and because of that can - proactively - minimize service disruptions and resolve issues faster when they occur.",OPSB,"- Pablo Macaya, 
+- Bienve Valencia, 
+- Raul Montoya",NSE,Yapi Kredi,Project,Improve Quality,Construction,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Reduce Risks","Name: Reduced applications downtime
+
+Description: Reducing the occurrence and duration of business service outages, thereby improving customer productivity and experience
+
+Value: Increased productivity and experience
+","Name: Eliminate inaccuracy of CMS 
+
+Description: Automated orchestration of NNM and OBM with an external customer network inventory to update the configuration management data and the monitoring scope aligned to changes in the network. Reduce the operational cost of the network and prioritize quality of critical business services.  Optimize Value Streams and Processes: Optimize continues operation value stream and change management process, thus improving Service Deployment
+
+Value: updated CMS and monitoring scope, eliminating Blind Spots, reduce TCO and OPEX","- % of CMS Coverage and completeness 
+- % Accuracy of CMDB / Asset Management information (increase) 
+- % of improve efficiency / effectiveness in Change Management",Continuous Operations,Configuration Management,One Single Source of Truth (CS),"As Configuration manager, 
+
+I want to have an automatic discovery of all network CI's and their attributes in my entire network, stored in a single source of truth (CMS), keeping my network topology and service models up to date
+
+so that this information can be leveraged in the service management platform for Functions like change impact analysis as well as asset verification , and I can eliminate blind spots, keep monitoring the complete infrastructure and unplanned downtime of my (business services) .",uCMDB,#NAME?,INDIA,HCL-Tech,Project,"- Improve Quality, 
+- Reduce Risks",Technology,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Reduce Risks","Name: Reduced applications downtime
+
+Description: Reducing the occurrence and duration of business service outages, thereby improving customer productivity and experience
+
+Value: Increased productivity and experience
+","Name: Eliminate inaccuracy of CMS 
+
+Description: Automated orchestration of NNM and OBM with an external customer network inventory to update the configuration management data and the monitoring scope aligned to changes in the network. Reduce the operational cost of the network and prioritize quality of critical business services. 
+
+Value: updated CMS and monitoring scope, eliminating Blind Spots, reduce TCO and OPEX",Reduce % OPEX,Continuous Operations,Configuration Management,Improve Network Service Modelling Orchestration,"As a Network Operation Manager 
+
+I want a network configuration management capability including a functionality to automatically update the monitoring scope of my network devices and services when they Configuration Items (CI) are dynamically added to or removed from my infrastructure
+
+So that I can keep my network topology and service models up to date, eliminate blind spots, keep monitoring the complete infrastructure and unplanned downtime of my (business services) .",NOM,Victor San Martin,NSE,Telefonica,Project,"- Improve Quality, 
+- Reduce Risks",Telecom,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Improve Quality,"Name: Improve Risk Management and Compliance
+
+Description: Ensure business continuity and reduce or eliminate security risks
+
+Value: Increased Business Continuity and Risk Mitigation","Name: Improve Service Delivery
+
+Description: Drive higher compliance and follow standard server security practices across.
+
+Value: Improved Compliance, Higher MTBF due to configuration drifts","- Reduced security risks, 
+- Reduced Cost to Maintain",Continuous Operations,Security Management,Infrastructure Audit & Remediation,"As IT Operations Manager
+
+I want to automate audit and remediation of servers, ensuring there are no unknown changes in server configurations 
+
+so that I can reduce impacts to availability and security risks of infrastructure and therefore business services.",DCA,#NAME?,AMS,Bell Canada,Project,Improve Quality,Telecom,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Reduce Cost, Improve Quality","Name: Help delivering efficiency targets.
+
+Description: Deliver its efficiency targets, keeping flight delays and environmental impact to a minimum whilst supporting aviation growth.","Name: Improve operational efficiency of ATC systems
+Description: Deploy and maintain monitoring capabilities that assure that Network Management (for the Air traffic Control Systems) can analyse issues with that network across Europe and execute standard recovery actions faster, keeping highly critical applications available and operational so it can perform the functions that are needed by Air Traffic Controllers on the airports.",MTBSI; MTTR; ,Continuous Operations,Event Management,Monitor ATC Systems,"As the Central Flow Management Unit Manager
+
+I want to consolidate information and alerts from the distributed ATC network systems in one dashboard, assuring that my operators can respond to the alerts with automated Standard Operating Procedures
+
+so that the system used by Air Traffic Control Towers across Europe are available and reliable supporting the work that needs to be done by Air Traffic Controllers on the airports",OPSB,Milen Metodiev,GALLIA,EUROCONTROL,Project,#NAME?,Aviation,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Improve Risks","Name: Improve Service Availability
+Description: Improve the reliability and availability of (business services) which results in improved customer experience and higher productivity
+Value: Improve MTBSI by [%]","E2E Quality Control, driving the performance testing methodology and quality gate for all core applications through a standard process for all the stakeholders in performance testing activities. ",Improve % MTBSI,Continuous Integration,Test Management,Improve Performance Testing,"As the Quality Manager
+
+I want our applications to be reliable and scalable, avoiding performance issues through thorough performance testing practices
+
+So that we can provide confidence to our customers which improves their experience and satisfaction",Load Runner,Sunanda K Rout,INDIA,#NAME?,Project,#NAME?,Manufactory,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Reduce Cost,"- Manage and optimize investment on software licenses (reduce overspend);
+- Mitigate risks of breach of software license compliance and associated penalty.","Dashboards and on-demand generation of software compliance reports, showing licenses consumed and consolidated compliance to help in 
+
+Centralized asset management information into one technology improving asset management across the company, resulting better compliance with contracts and better stewardship of assets.
+
+- Better utilization of purchased licenses 
+- Reduce cost of software licenses purchased 
+- Individual software compliance (for specific version) 
+- Consolidated software compliance (overall) 
+- Avoid penalty by OEM software publishers 
+- Manage software license contracts, notifications before license expiry.","- Improve % of license consumption; 
+- Reduce TCO",Continuous Compliance,Asset Management,Optimize License Consumption,"As the ASSET MANAGER, 
+
+I want to monitor our license consumption again the contractual allowance
+
+So that I can improve utilization of licenses and remain compliant”",AMX,Ranjan Bhattacharya,INDIA,Bank of Baroda,Project,Reduce Cost,Financial,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Grow Revenues,"Improve Service Quality and Performance, resulting in improving the business performance; grow revenue","Optimized Service Level Management practice, focused on improving the SLA with our customers and OLA or contracts with our suppliers, improving the performance of both SLA's and OLA's achieving:
+- Business and Service strategy alignment 
+- Better Management of Supplier/vendor Performance 
+- Ability to Prioritize the incidents based on defined multiple criterion","- Improve the # of SLA's that meet the target SLO; 
+- Improve % and $ effectiveness of suppliers (OLA's and UC effectiveness)",Continuous Operations,Service Level Management,Improve SLA achievements,"As the Service Level Manager
+
+I want to measure my service level objectives (documented in my SLA) with regards to the performance of the Incident Management practice (example: MTTR, MTBSI)
+
+So that I can manage and improve my operational level agreements for each department, location and vendors effectively, resulting in better SLA achievement and better service quality ",SMAX,Praveen Viswanath,INDIA,Comviva,Project,Grow Revenues,Telecom,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Improve Quality,"Name: Shorter Time to Market:
+Description: Improve the time it takes to deploy new or changed business applications, leveraging new / required functionalities to improve business processes","Improving the testing practice through service virtualization giving the following benefits:
+- Improved Release Velocity. 
+- Reduce cost of overall development. 
+- Efficiency improvement by reducing dependencies","- % Increased output / productivity of development 
+- % deployment of new requirements success rate",Continuous Integration,Test Management,Improve Testing Performance [through service virtualization],"As the VP of APPS
+
+I want to virtualize service components that simulate environments for testing, enabling faster development and testing cycles
+
+So that collaboration within development teams ensures seamless integration of all components, testing the final product as a whole, improving release velocity while reducing costs ",SV,Sunanda Kumar Rout,INDIA,#NAME?,Project,Improve Quality,Financial,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Improve Quality,Higher availability / reliability of (business) applications and thus business processes improving revenue growth ,"Name: Improve [IT] Service Delivery
+Description: Improve situational awareness of service health and threat / vulnerability alerting by the improvement of observability through the connection of key metrics from different OEM tools and Network Link Monitoring, making it possible to respond to alerts that provide information of the reduction of service health.
+Value: % availability / performance improved for monitored service",TBD,Continuous Operations,Service Monitoring,Single Pain of Glass,"As the Service Assurance Manager
+
+I want a Single Pane of Glass integrating all real-time information and knowledge about the health of the service into one dashboard 
+
+So that I can respond proactively to alerts that jeopardize the availability, reliability and performance of that service",OPSB,Puran Singh,INDIA,Karnataka State Data Centre,Project,Improve Quality,Government,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Improve Quality,Higher availability / reliability of (business) applications and thus business processes improving revenue growth ,"Name: Improve [IT] Service Delivery
+Description: Improve situational awareness of service health and threat / vulnerability alerting by the improvement of observability through the connection of key metrics from different OEM tools and Network Link Monitoring, making it possible to respond to alerts that provide information of the reduction of service health.
+Value: % availability / performance improved for monitored service",#NAME?,Continuous Operations,Service Monitoring,Single Pain of Glass,"As the Service Assurance Manager
+
+I want a Single Pane of Glass integrating all real-time information and knowledge about the health of the service into one dashboard 
+
+So that I can respond proactively to alerts that jeopardize the availability, reliability and performance of that service",OPSB,Puran Singh,INDIA,Wipro Nestle,Project,Improve Quality,Manufactory,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Improve Quality,Higher availability / reliability of (business) applications and thus business processes improving revenue growth ,"Name: Improve [IT] Service Delivery
+Description: Improve situational awareness of service health and threat / vulnerability alerting by the improvement of observability through the connection of key metrics from different OEM tools and Network Link Monitoring, making it possible to respond to alerts that provide information of the reduction of service health.
+Value: % availability / performance improved for monitored service",#NAME?,Continuous Operations,Service Monitoring,Single Pain of Glass,"As the IT Operations Manager
+
+I want a Single Pane of Glass integrating all real-time information and knowledge about the health of the service into one dashboard 
+
+So that I can respond proactively to alerts that jeopardize the availability, reliability and performance of that service",OPSB,#NAME?,AMS,Citibank,Project,Improve Quality,Financial,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Reduce Risks,"Name: Improved Risk Management
+
+Description: Ensure business continuity by reducing security risk by avoiding credentials being stored on different systems and applications.
+
+Value: TBA","Name: Improve Security Management
+
+Description: Centralized Accounts and Password management minimizing security risks due to credentials stored on different applications and ability to change passwords or access control in one system ensuring reduced downtime and effort.
+
+Value: Improved credentials management and reduced security risk",#NAME?,Continuous Compliance,Security Management,Improve Password Protection,"As Security Manager
+
+I want to improve Password Protection by ensuring passwords are not stored locally on the application and I can manage them centrally and also by reduce the effort to change the password thus motivating users to change them as per company policy
+
+So that I can ensure business continuity by reducing security risk ",OPSB,#NAME?,AMS,Citibank,Project,Reduce Risk,Financial,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Improve Quality,"Higher productivity regardless of the location of the employees, higher employee experience","Restore service interruption / degradation as fast as possible, ",Improve MTTR,Continuous Operations,Incident Management,Improve Incident Resolution on Remote Locations,"As the Delivery Manager
+
+I want a capability for my support staff to restore the service as quickly as possible for employees in remote locations without having to travel there, resulting in an improved MTTR experience
+
+So that my customers can improve productivity and I can improve customer experience and the company can safe costs ",SMAX,Suresh VK,INDIA,Cochin Shipyard,Project,Improve Quality,Manufactory,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Improve Quality,Higher reliability and availability of critical business services resulting in higher productivity and higher profits ,"Reliable Change Management Process, managing risks better, preventing outages and unplanned downtime, delivering new or changed services on time in full",#NAME?,Continuous Operations,Change Management,Improve Risks Avoidance,"As a Change Manager
+
+I want to automate and improve the impact and risk analysis of all change requests, based on predefined known parameters which will result in assigning a predefines change planning depending on the level of risk and impact
+
+So that we reduce the change of risks to happen, reduce the unpanned downtime of critic business services, improve productivity and thus profits
+",SMAX,India Delivery Team,INDIA,Societe General ,Project,Improve Quality,Financial,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Reduce Cost","Name: Ensure continuation of security of access 
+
+Description: Ensure security of physical and remote access to facilities and infrastructure (to facilitate the remote work of the employees) of employees/contractors, maintain existing GISS security process without increasing cost
+
+Value: TBD","Name: Compliance and Data Security
+
+Description: Facilitate corporate access to workers without an incremental expense to change existing cards and  Improve security of physical and remote access to facilities and infrastructure (to facilitate the remote work of the employees) of employees/contractors
+
+Value: All employees access through approved methods. Reduce incidents associated to security access by 20%",TBD,Continuous Operations,Identity Management,Maintain Security Access,"As a Chief Security Office
+
+I want a flexible mechanism to validate the identity of users using their company cards that does not only work with certificates, but also supports a (custom) Serial ID.
+
+So that we can keep using the existing company cards for user authentication instead of changing them all",NetIQ,Elena Terol Caturla,NSE,GISS,Project,#NAME?,Government,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Reduce Risks, Reduce Cost","Name: Improve Network Reliability 
+
+Description: reduce risks to and improve quality of critical business services. 
+
+Value: TBA","Name: Reduce the operational cost of the corporate network 
+
+Description: reduce the operational cost of the network and prioritize quality of critical business services, automated orchestration of NNM and OBM with an external customer network inventory to deploy changes in the monitoring system associated to changes in the network
+
+Value: Reduction of 1FTE. Improve prioritization of network events based on business impact., Zero manual changes in the NOC (automated changes per day 20).  ",#NAME?,Continuous Operations,Service Monitoring,Automated Network Inventory Orchestration,"As a Network Operation Manager    
+
+I want to leverage my dynamic network inventory and automatically update the monitoring of my network devices and services, applying the changes (new devices, configuration changes or device disposals) to my monitoring system, without disruption, 
+
+So that I can keep my network topology and services up to date and reduce blind spots that otherwise would not be monitored, improving the availability and reliability of the network",NOM,Victor San Martin,NSE,Telefonica,Project,#NAME?,,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Reduce Risks, Reduce Cost","Improve the competitive position and grow the business (more customers), improve customer satisfaction (retain customers)","Name: Optimize the IT services delivered
+
+Description: Automate IT infrastructure discovery, improve event management, improve incident management, implement reporting tools and patch management processes. Ensure cost-effective, non-stop services to end customers (as a Managed Service Provider).
+
+Value: Reduce overall manual tasks and increase the IT management control ","- Improve MTTF
+- reduce  MTTR
+- Improve MTBF
+- Improve #SLAs targets met",Continuous Operations,Service Level Management,Improve Process Management,"As a VP of IT Operations
+
+I want  to control my infrastructure, the delivery of services and operate more efficiently
+
+So that I can reduce manual tasks, improve visibility, and reduce the overall cost of operation of my customer’s services",Cross Portfolio,Bienve Valencia,NSE,Cellnex,Project,#NAME?,Telecom,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Reduce Risks, Business Alignment","Improve the quality of the deployed digital interfaces, delivering what the customer had required, thus to improve business performance and customer satisfaction","Name: Improve Requirements Management and Compliance.
+
+Description: Centrally manage complex requirements, defects and tests throughout the project lifecycle. Removing silos and embracing collaboration features, and integration with standardized business applications.  Ensure Regulatory Compliance with Defence guidelines through centralised and standardised methodology, to ensure an effective audit trail across the estate.  
+Value: Provide clear presentation and traceability, whilst capturing and managing all User and Systems Requirements to a standard which will scale across the wider Defence estate.
+
+Value: TBD","- Improve % deployment of new requirements success rate
+- Improve % Requirement Coverage Ratio
+- Improve % Feature Sentiment",Continuous Planning,Requirement Management,Improve Requirements Management Compliance,"As the Product Manager
+
+I want a capability that captures all information with regards to a requirement artifacts such as test results, defects and deployment / release record conform to standardized practice with centralised visibility
+
+
+So that I can nd track the lifecycle of a requirement from initiation till deployment (in production) and strengthen compliance for Requirements Management",Dimensions RM,Barry Sloan,UK&I,Large European Defence Customer,Project,"- Improve Quality, 
+- Reduce Risks, 
+- Business Alignment",Government,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Reduce Risks,"Name: Achieve DORA compliance
+
+Description: Achieve the Digital Operational Resilience Act (DORA) compliance following Government regulation of communication technology (ICT) risk management thus improve business insight & Impact.
+
+Value: Compliance failure can result in substantial punitive measures","Improve Service Insight 
+
+Provide business impact, improve Service Insight through automated service modelling, including maintenance and delta processes. ",#NAME?,Continuous Compliance,Configuration Management,Improve Service Assurance,"As the Chief Compliance Officer
+
+I want to demonstrate the understanding of impacts of defects, incidents, problems and changes by improving the visibility of my core banking services configuration through automated service modelling
+
+So that I can achieve Digital Operational Resilience Act (DORA) compliance and avoid substantial punitive measures.",uCMDB/UD,Tim Wade,UK&I,PTSB,Project,Reduce Risks,Financial,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Business Alignment, Reduce Risks",Reduce fines and reduce brand damage,"Leverage the existing Solution and Resources, Compliance to Company IT Security practices and compliance to Product Maintenance",Improved # of successful audits,Continuous Compliance,Policy Management,Align compliance to regulations ,"As a CIO, 
+
+I want to stay compliant with government regulations 
+
+so that I can reduce fines and prevent reputational damage",DCA,Asrul Muan,Singapore,Overseas Chinese Banking Corporation,Project,"- Business Alignment, 
+- Reduce Risks",Financial,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Business Alignment, Reduce Risks",Protect the company reputation,"Visibility of PII data and governance of the information
+
+Align to regulatory requirements (PDPA and GDPR)  ","- Reduce the % of security risks 
+- Reduce the % of cyber risks 
+- Improve the # of predictive and proactive responses to potential cyber risks",Continuous Compliance,Risk Management,Implement PII scanning and data leak protection,"As a CISO, 
+
+I want to encrypt PII data 
+
+so that I can comply to regulatory requirement and manage the risk to the business ",Voltage,Trishten Tan,Singapore,Synapxe,Project,"- Business Alignment, 
+- Reduce Risks",Financial,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Reduce Risks",Protect the company reputation,"Automate the vulnerability detection and remediation
+
+Streamline the security compliance process and reduce risks","- Improve numbers of responses to potential cyber risks
+- Reduced % of security risks
+- Improve the percentage of productivity",Continuous Compliance,Security Management,Improve CIS Compliance,"As the CISO, 
+
+I want a practice that identifies security vulnerabilities proactive and then takes the right actions to comply to industry standard  
+
+so that I can reduce the security risks and reduce the reputational damage.",DCA,Asrul Muan,Singapore,Singapore Pools,Project,"- Improve Quality, 
+- Reduce Risks",Financial,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Business Alignment, Improve Quality, Reduce Risks","Creating a capability to optimize their content that the business in depending on, thus improving business processes / practices, reduces business risk and providing quality .","NatWest have many independent systems to store records and metadata about multiple. By using a core SQL Master Database, AutoSys, Structured Data Manager and Content Manager, along with many custom tools, they are now findings, managing and clearing old record.",- Reduce the MTTF [ to search and provide the right content),Continuous Insight,Data Protection,Improve Content Management,"As the CIO
+
+I want a central capability that manages content in multiple systems across the company in a single source of truth, automating majority of business tasks to perform lifecycle management on all content 
+
+so that our organization manages content that can be consumed by our stakeholders, while reducing risk and stay compliant",Content Manager,Carl Sumner,UK&I,National Westminster Bank Plc.,Project,"- Business Alignment, 
+- Improve Quality
+- Reduce Risks",Financial,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Business Alignment, Grow Revenue, Reduce Risks",information to consume,"Standardize of Notification Platform and increase notification reliability
+
+Improve Service Reliability and Reduce Service Downtime",Reduce percentage of undelivered notifications,Continuous Operations,Event Management,Improve Notification Effectiveness,"As an Operations Manager, 
+
+I want an effective notification system that delivers all required notifications to the right audience reducing the undelivered notifications 
+
+so that the operators can react to the event on time and reduced the unplanned downtime",OPSB,Asrul Muan,Singapore,Banking Computer Services,Project,"- Business Alignment, 
+- Grow Revenue
+- Reduce Risks",Financial,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+Improve Quality,"Higher availability of business services which leads to better service quality, higher business performance, better customer experience and higher profits",Improve the routing of events to the right resolver groups thus improving the time outages are recovered by automating the routing based on predefined parameters in both OBS and SMAX,Improve MTTR,Continuous Operations,Incident Management,Improve Incident Routing [to the right resolver groups],"As the Incident Manager 
+
+I want to associate events and incidents with existing topology related to business services (Service Model) and support groups 
+
+so, I can automatically route events / incidents to the right resolver group faster, better and safe",Cross Portfolio,Vekatesha M S,INDIA,State Bank of Mauritius,Project,Improve Quality,Financial,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Business Alignment","Reducing the effort for customers to search and order products and services they need will increase productivity and customer satisfaction, thus retention
+","Having a capability to order / consume all products and services in a unified and aggregated service catalogue (portal) and therefore establish a simple way for all customers to search and order products and services, greatly improves customer experience and also leads to a reduction in administrational effort an employee has to invest in the fulfilment of orders. This also reduce manual efforts in maintaining several input channels for ordering different products and services.  ","- Improve % Customer satisfaction and  retention
+- Improve MTTF",Consume,Consumption Experience Management,Improve search / order products and services,"As the Service Catalogue Manager 
+
+I want a capability where my customers can order products or services from one single aggregated Service Catalogue (Portal) without forcing them to switch between several Service Catalogues for certain products or services
+
+So that I can improve the experience for customers with regards to searching and ordering products and services, therefore improve their productivity and satisfaction",SMAX,Julia Schubert,DACH,Austrian Airlines,Project,"- Improve Quality, 
+- Business Alignment",Aviation,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
+"Improve Quality, Business Alignment","Easy to consume and faster, Automated Service Request Management leads to better service quality, higher performance, better customer experience and higher profits",Efficient Service Request Management practices reduce cost and allow support groups to more efficiently fulfil service and support requests in the meantime improve the work agents do from low value task to high value tasks.,Improve MTTF,Consume,Request Fulfilment,Fulfil Service Request efficient and effective,"As the Service Delivery Manager 
+
+I want automated request management workflows that streamlined requests, approval, orchestration and fulfilment practices across all service providers, 
+
+so that services requests will be fulfilled more efficiently thus improving availability, business performance, customer effort (to do business with IT) and end user satisfaction. ",OO,Julia Schubert,DACH,Austrian Airlines,Project,#NAME?,Aviation,Item,teams/SS-WWSS/DX/Lists/Outcomelibrary1
